@@ -1,0 +1,582 @@
+{
+  "python": 8,
+  "java": 9,
+  "c": 6,
+  "c++": 9,
+  "c#": 8,
+  "javascript": 8,
+  "typescript": 8,
+  "go": 9,
+  "rust": 10,
+  "kotlin": 8,
+  "swift": 8,
+  "php": 5,
+  "ruby": 5,
+  "scala": 8,
+  "bash": 6,
+  "software engineering": 7,
+  "object oriented programming": 9,
+  "functional programming": 8,
+  "multithreading": 9,
+  "concurrency": 10,
+  "asynchronous programming": 8,
+  "distributed systems": 10,
+  "microservices": 9,
+  "monolithic architecture": 5,
+  "event driven architecture": 9,
+  "system design": 10,
+  "design patterns": 9,
+  "clean architecture": 8,
+  "solid principles": 8,
+  "data structures": 10,
+  "algorithms": 10,
+  "dynamic programming": 8,
+  "graph algorithms": 8,
+  "greedy algorithms": 6,
+  "recursion": 6,
+  "backtracking": 7,
+  "time complexity": 9,
+  "html": 5,
+  "css": 5,
+  "sass": 5,
+  "tailwind css": 5,
+  "bootstrap": 4,
+  "react": 8,
+  "next.js": 8,
+  "vue.js": 7,
+  "angular": 7,
+  "svelte": 7,
+  "redux": 7,
+  "zustand": 6,
+  "webpack": 7,
+  "vite": 7,
+  "node.js": 8,
+  "express": 7,
+  "nestjs": 8,
+  "django": 8,
+  "flask": 7,
+  "fastapi": 8,
+  "spring boot": 9,
+  "hibernate": 7,
+  "laravel": 5,
+  "ruby on rails": 5,
+  "asp.net": 8,
+  "graphql": 8,
+  "grpc": 9,
+  "rest api": 8,
+  "websockets": 8,
+  "socket.io": 6,
+  "mysql": 6,
+  "postgresql": 8,
+  "sqlite": 4,
+  "mongodb": 7,
+  "redis": 8,
+  "cassandra": 8,
+  "firebase": 5,
+  "supabase": 5,
+  "elasticsearch": 8,
+  "neo4j": 7,
+  "docker": 9,
+  "kubernetes": 10,
+  "nginx": 7,
+  "apache": 5,
+  "aws": 9,
+  "azure": 8,
+  "gcp": 8,
+  "ec2": 7,
+  "s3": 7,
+  "lambda": 8,
+  "cloud computing": 8,
+  "ci/cd": 8,
+  "jenkins": 7,
+  "github actions": 7,
+  "terraform": 9,
+  "ansible": 7,
+  "unit testing": 8,
+  "integration testing": 8,
+  "end to end testing": 7,
+  "pytest": 7,
+  "jest": 7,
+  "mocha": 5,
+  "cypress": 7,
+  "playwright": 8,
+  "selenium": 6,
+  "postman": 5,
+  "git": 8,
+  "github": 6,
+  "gitlab": 6,
+  "bitbucket": 4,
+  "jira": 4,
+  "agile": 5,
+  "scrum": 4,
+  "authentication": 8,
+  "authorization": 8,
+  "jwt": 7,
+  "oauth": 8,
+  "encryption": 8,
+  "owasp": 8,
+  "vscode": 3,
+  "intellij": 4,
+  "pycharm": 4,
+  "android studio": 4,
+  "linux": 8,
+  "unix": 7,
+  "jupyter": 3,
+  "google colab": 2,
+  "android": 7,
+  "ios": 7,
+  "react native": 7,
+  "flutter": 7,
+  "debugging": 9,
+  "refactoring": 9,
+  "code review": 8,
+  "scalability": 10,
+  "performance optimization": 10,
+  "memory optimization": 9,
+  "load balancing": 9,
+  "caching": 8,
+  "message queues": 9,
+  "rabbitmq": 8,
+  "kafka": 10,
+  "py": "python",
+  "js": "javascript",
+  "ts": "typescript",
+  "oop": "object oriented programming",
+  "solid": "solid principles",
+  "dsa": "data structures",
+  "dp": "dynamic programming",
+  "vuejs": "vue.js",
+  "node": "node.js",
+  "rails": "ruby on rails",
+  "mongo": "mongodb",
+  "k8s": "kubernetes",
+  "auth": "authentication",
+  "colab": "google colab",
+  "aws certified developer associate": {
+    "tier": 5,
+    "provider": "aws",
+    "aliases": [
+      "aws developer associate",
+      "aws developer cert",
+      "dva c02"
+    ]
+  },
+  "aws certified solutions architect associate": {
+    "tier": 5,
+    "provider": "aws",
+    "aliases": [
+      "aws solutions architect",
+      "aws saa",
+      "solutions architect associate"
+    ]
+  },
+  "aws certified devops engineer professional": {
+    "tier": 5,
+    "provider": "aws",
+    "aliases": [
+      "aws devops engineer",
+      "aws devops professional"
+    ]
+  },
+  "aws certified cloud practitioner": {
+    "tier": 3,
+    "provider": "aws",
+    "aliases": [
+      "aws ccp",
+      "aws practitioner"
+    ]
+  },
+  "microsoft certified azure developer associate": {
+    "tier": 5,
+    "provider": "microsoft",
+    "aliases": [
+      "azure developer associate",
+      "azure developer cert",
+      "az 204"
+    ]
+  },
+  "microsoft certified devops engineer expert": {
+    "tier": 5,
+    "provider": "microsoft",
+    "aliases": [
+      "azure devops engineer",
+      "az 400"
+    ]
+  },
+  "microsoft certified azure fundamentals": {
+    "tier": 3,
+    "provider": "microsoft",
+    "aliases": [
+      "azure fundamentals",
+      "az 900"
+    ]
+  },
+  "microsoft power platform developer associate": {
+    "tier": 4,
+    "provider": "microsoft",
+    "aliases": [
+      "power platform developer",
+      "pl 400"
+    ]
+  },
+  "google professional cloud developer": {
+    "tier": 5,
+    "provider": "google",
+    "aliases": [
+      "gcp developer",
+      "google cloud developer"
+    ]
+  },
+  "google associate cloud engineer": {
+    "tier": 4,
+    "provider": "google",
+    "aliases": [
+      "associate cloud engineer",
+      "gcp associate engineer"
+    ]
+  },
+  "oracle certified professional java programmer": {
+    "tier": 5,
+    "provider": "oracle",
+    "aliases": [
+      "ocjp",
+      "oracle java certification",
+      "java programmer certification"
+    ]
+  },
+  "oracle certified associate java programmer": {
+    "tier": 4,
+    "provider": "oracle",
+    "aliases": [
+      "ocajp",
+      "java associate certification"
+    ]
+  },
+  "certified kubernetes administrator": {
+    "tier": 5,
+    "provider": "cncf",
+    "aliases": [
+      "cka",
+      "kubernetes administrator"
+    ]
+  },
+  "certified kubernetes application developer": {
+    "tier": 5,
+    "provider": "cncf",
+    "aliases": [
+      "ckad",
+      "kubernetes application developer"
+    ]
+  },
+  "certified kubernetes security specialist": {
+    "tier": 5,
+    "provider": "cncf",
+    "aliases": [
+      "cks",
+      "kubernetes security specialist"
+    ]
+  },
+  "docker certified associate": {
+    "tier": 4,
+    "provider": "docker",
+    "aliases": [
+      "dca",
+      "docker certification"
+    ]
+  },
+  "hashicorp terraform associate": {
+    "tier": 4,
+    "provider": "hashicorp",
+    "aliases": [
+      "terraform associate",
+      "terraform certification"
+    ]
+  },
+  "jenkins engineer certification": {
+    "tier": 4,
+    "provider": "jenkins",
+    "aliases": [
+      "jenkins cert",
+      "certified jenkins engineer"
+    ]
+  },
+  "red hat certified engineer": {
+    "tier": 5,
+    "provider": "red hat",
+    "aliases": [
+      "rhce",
+      "red hat engineer"
+    ]
+  },
+  "red hat certified system administrator": {
+    "tier": 4,
+    "provider": "red hat",
+    "aliases": [
+      "rhcsa",
+      "red hat administrator"
+    ]
+  },
+  "linux foundation certified system administrator": {
+    "tier": 4,
+    "provider": "linux foundation",
+    "aliases": [
+      "lfcs",
+      "linux foundation admin"
+    ]
+  },
+  "cisco certified network associate": {
+    "tier": 4,
+    "provider": "cisco",
+    "aliases": [
+      "ccna",
+      "cisco networking"
+    ]
+  },
+  "cisco certified network professional": {
+    "tier": 5,
+    "provider": "cisco",
+    "aliases": [
+      "ccnp",
+      "cisco network professional"
+    ]
+  },
+  "salesforce certified platform developer i": {
+    "tier": 4,
+    "provider": "salesforce",
+    "aliases": [
+      "salesforce developer",
+      "platform developer 1"
+    ]
+  },
+  "salesforce certified javascript developer i": {
+    "tier": 4,
+    "provider": "salesforce",
+    "aliases": [
+      "salesforce javascript developer",
+      "salesforce js cert"
+    ]
+  },
+  "certified scrum master": {
+    "tier": 4,
+    "provider": "scrum alliance",
+    "aliases": [
+      "csm",
+      "scrum master certification"
+    ]
+  },
+  "professional scrum master": {
+    "tier": 4,
+    "provider": "scrum.org",
+    "aliases": [
+      "psm",
+      "professional scrum certification"
+    ]
+  },
+  "safe scrum master": {
+    "tier": 3,
+    "provider": "scaled agile",
+    "aliases": [
+      "ssm",
+      "safe scrum certification"
+    ]
+  },
+  "istqb certified tester foundation level": {
+    "tier": 4,
+    "provider": "istqb",
+    "aliases": [
+      "istqb",
+      "software testing certification"
+    ]
+  },
+  "certified selenium tester": {
+    "tier": 3,
+    "provider": "selenium",
+    "aliases": [
+      "selenium certification",
+      "selenium tester cert"
+    ]
+  },
+  "mongodb certified developer associate": {
+    "tier": 4,
+    "provider": "mongodb",
+    "aliases": [
+      "mongodb developer",
+      "mongodb certification"
+    ]
+  },
+  "postgresql associate certification": {
+    "tier": 3,
+    "provider": "postgresql",
+    "aliases": [
+      "postgres certification",
+      "postgresql cert"
+    ]
+  },
+  "redis certified developer": {
+    "tier": 3,
+    "provider": "redis",
+    "aliases": [
+      "redis certification",
+      "redis developer cert"
+    ]
+  },
+  "meta frontend developer professional certificate": {
+    "tier": 4,
+    "provider": "meta",
+    "aliases": [
+      "meta frontend developer",
+      "frontend professional certificate"
+    ]
+  },
+  "meta backend developer professional certificate": {
+    "tier": 4,
+    "provider": "meta",
+    "aliases": [
+      "meta backend developer",
+      "backend professional certificate"
+    ]
+  },
+  "google ux design professional certificate": {
+    "tier": 3,
+    "provider": "google",
+    "aliases": [
+      "google ux design",
+      "ux design certificate"
+    ]
+  },
+  "pcap certified associate in python programming": {
+    "tier": 4,
+    "provider": "python institute",
+    "aliases": [
+      "pcap",
+      "python associate certification"
+    ]
+  },
+  "pcpp certified professional in python programming": {
+    "tier": 5,
+    "provider": "python institute",
+    "aliases": [
+      "pcpp",
+      "python professional certification"
+    ]
+  },
+  "coursera software engineering specialization": {
+    "tier": 3,
+    "provider": "coursera",
+    "aliases": [
+      "coursera software engineering",
+      "software engineering specialization"
+    ]
+  },
+  "coursera full stack development": {
+    "tier": 3,
+    "provider": "coursera",
+    "aliases": [
+      "full stack specialization",
+      "coursera full stack"
+    ]
+  },
+  "udemy full stack web development bootcamp": {
+    "tier": 2,
+    "provider": "udemy",
+    "aliases": [
+      "full stack bootcamp",
+      "udemy web development"
+    ]
+  },
+  "edx software development fundamentals": {
+    "tier": 2,
+    "provider": "edx",
+    "aliases": [
+      "software development fundamentals",
+      "edx software development"
+    ]
+  },
+  "github actions certification": {
+    "tier": 3,
+    "provider": "github",
+    "aliases": [
+      "github actions cert",
+      "github cicd certification"
+    ]
+  },
+  "github foundations certification": {
+    "tier": 3,
+    "provider": "github",
+    "aliases": [
+      "github foundations",
+      "github certification"
+    ]
+  },
+  "google it automation with python": {
+    "tier": 3,
+    "provider": "google",
+    "aliases": [
+      "google python automation",
+      "it automation python"
+    ]
+  },
+  "ibm full stack cloud developer": {
+    "tier": 3,
+    "provider": "ibm",
+    "aliases": [
+      "ibm full stack developer",
+      "ibm cloud developer"
+    ]
+  },
+  "freecodecamp responsive web design": {
+    "tier": 2,
+    "provider": "freecodecamp",
+    "aliases": [
+      "responsive web design",
+      "fcc web design"
+    ]
+  },
+  "freecodecamp javascript algorithms and data structures": {
+    "tier": 2,
+    "provider": "freecodecamp",
+    "aliases": [
+      "fcc javascript algorithms",
+      "javascript data structures"
+    ]
+  },
+  "google cloud platform": "gcp",
+  "amazon web services": "aws",
+  "visual studio code": "vscode",
+  "json web token": "jwt",
+  "continuous integration": "ci/cd",
+  "continuous deployment": "ci/cd",
+  "android development": "android",
+  "jupyter notebook": "jupyter",
+  "shell scripting": "bash",
+  "microsoft azure": "azure",
+  "ios development": "ios",
+  "elastic search": "elasticsearch",
+  "apache server": "apache",
+  "intellij idea": "intellij",
+  "asp.net core": "asp.net",
+  "aws lambda": "lambda",
+  "core java": "java",
+  "python3": "python",
+  "cpp": "c++",
+  "csharp": "c#",
+  "golang": "go",
+  "sh": "bash",
+  "monolith": "monolithic architecture",
+  "html5": "html",
+  "css3": "css",
+  "scss": "sass",
+  "tailwind": "tailwind css",
+  "reactjs": "react",
+  "nextjs": "next.js",
+  "angularjs": "angular",
+  "nodejs": "node.js",
+  "expressjs": "express",
+  "springboot": "spring boot",
+  "dotnet": "asp.net",
+  "websocket": "websockets",
+  "socketio": "socket.io",
+  "postgres": "postgresql",
+  "oauth2": "oauth",
+  "ubuntu": "linux"
+}

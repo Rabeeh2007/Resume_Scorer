@@ -1,0 +1,75 @@
+{
+    "bachelor": "bachelor",
+    "bachelors": "bachelor",
+
+    "bs": "bachelor",
+    "b.s": "bachelor",
+    "b.sc": "bachelor",
+    "bsc": "bachelor",
+    "b sc": "bachelor",
+
+    "ba": "bachelor",
+    "b.a": "bachelor",
+
+    "be": "bachelor",
+    "b.e": "bachelor",
+    "b eng": "bachelor",
+    "b.eng": "bachelor",
+    "bengineering": "bachelor",
+
+    "btech": "bachelor",
+    "b.tech": "bachelor",
+    "b tech": "bachelor",
+
+    "bca": "bachelor",
+
+    "undergraduate": "bachelor",
+    "under graduate": "bachelor",
+    "ug": "bachelor",
+
+    "associate": "associate",
+    "associates": "associate",
+    "associate degree": "associate",
+
+
+    "master": "master",
+    "masters": "master",
+
+    "ms": "master",
+    "m.s": "master",
+    "msc": "master",
+    "m.sc": "master",
+    "m sc": "master",
+
+    "ma": "master",
+    "m.a": "master",
+
+    "me": "master",
+    "m.e": "master",
+    "m eng": "master",
+    "m.eng": "master",
+
+    "mtech": "master",
+    "m.tech": "master",
+    "m tech": "master",
+
+    "mba": "master",
+    "mca": "master",
+
+    "postgraduate": "master",
+    "post graduate": "master",
+
+    "pg diploma": "master",
+    "pgdm": "master",
+
+    "phd": "doctorate",
+    "ph.d": "doctorate",
+    "doctorate": "doctorate",
+    "doctoral": "doctorate",
+    "doctor": "doctorate",
+    "dphil": "doctorate",
+
+    "diploma": "diploma",
+    "polytechnic": "diploma"
+
+}

@@ -1,0 +1,66 @@
+*{box-sizing: border-box; margin: 0; padding: 0;}
+
+body{
+    font-family: 'DM Sans', sans-serif;
+    background: #f0f2f5;
+    color: #1a1a2e;
+    padding: 40px 16px;
+}
+
+.container { max-width: 620px; margin: auto; }
+
+h1 { font-size: 2rem; text-align: center; margin-bottom: 6px; }
+.subtitle { text-align: center; color: #666; margin-bottom: 28px; }
+
+.card{
+    background:white;
+    border-radius: 12px;
+    padding: 32px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    margin-bottom: 24px;
+}
+
+.upload-area{
+    border:2px dashed #c0c0c0;
+    border-radius: 12px;
+    padding: 40px;
+    text-align:center;
+    cursor: pointer;
+    transition: border-color 0.2s;
+    margin-bottom: 24px;
+}
+
+
+.upload-area.dragover { border-color: #4f46e5; background: #eef2ff; }
+.upload-icon { font-size: 2.5rem; margin-bottom: 10px; }
+.link { color: #4f46e5; cursor: pointer; text-decoration: underline; }
+.file-name { font-size: 0.85rem; color: #888; margin-top: 8px; }
+
+.field{margin-bottom: 20px;}
+.field label { display: block; margin-bottom: 6px; font-weight: 600; }
+select{
+    width: 100%; 
+    padding: 10px 14px;
+    border: 1px solid #ddd; 
+    border-radius: 8px;
+    font-size: 1rem; 
+    background: white;
+}
+
+
+button {
+    width: 100%; 
+    padding: 14px;
+    background: #4f46e5; 
+    color: white;
+    border: none; 
+    border-radius: 10px;
+    font-size: 1rem; 
+    font-weight: 600;
+    cursor: pointer; 
+    transition: background 0.2s;
+}
+button:hover:not(:disabled) { background: #4338ca; }
+button:disabled { background: #a5b4fc; cursor: not-allowed; }
+
+.error { color: #e53e3e; margin-top: 12px; font-size: 0.9rem; text-align: center; }

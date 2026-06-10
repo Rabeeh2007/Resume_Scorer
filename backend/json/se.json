@@ -1,0 +1,704 @@
+{
+
+    "python": {
+        "aliases": ["py", "python3"],
+        "category": "programming_language"
+    },
+
+    "java": {
+        "aliases": ["core java"],
+        "category": "programming_language"
+    },
+
+    "c": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "c++": {
+        "aliases": ["cpp"],
+        "category": "programming_language"
+    },
+
+    "c#": {
+        "aliases": ["csharp"],
+        "category": "programming_language"
+    },
+
+    "javascript": {
+        "aliases": ["js"],
+        "category": "programming_language"
+    },
+
+    "typescript": {
+        "aliases": ["ts"],
+        "category": "programming_language"
+    },
+
+    "go": {
+        "aliases": ["golang"],
+        "category": "programming_language"
+    },
+
+    "rust": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "kotlin": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "swift": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "php": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "ruby": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "scala": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "bash": {
+        "aliases": ["shell scripting", "sh"],
+        "category": "scripting"
+    },
+
+    "software engineering": {
+        "aliases": ["software development"],
+        "category": "core_se"
+    },
+
+    "object oriented programming": {
+        "aliases": ["oop"],
+        "category": "core_se"
+    },
+
+    "functional programming": {
+        "aliases": [],
+        "category": "core_se"
+    },
+
+    "multithreading": {
+        "aliases": ["multithreading"],
+        "category": "core_se"
+    },
+
+    "concurrency": {
+        "aliases": [],
+        "category": "core_se"
+    },
+
+    "asynchronous programming": {
+        "aliases": ["async programming"],
+        "category": "core_se"
+    },
+
+    "distributed systems": {
+        "aliases": [],
+        "category": "core_se"
+    },
+
+    "microservices": {
+        "aliases": [],
+        "category": "architecture"
+    },
+
+    "monolithic architecture": {
+        "aliases": ["monolith"],
+        "category": "architecture"
+    },
+
+    "event driven architecture": {
+        "aliases": [],
+        "category": "architecture"
+    },
+
+    "system design": {
+        "aliases": [],
+        "category": "architecture"
+    },
+
+    "design patterns": {
+        "aliases": [],
+        "category": "architecture"
+    },
+
+    "clean architecture": {
+        "aliases": [],
+        "category": "architecture"
+    },
+
+    "solid principles": {
+        "aliases": ["solid"],
+        "category": "architecture"
+    },
+
+    "data structures": {
+        "aliases": ["dsa"],
+        "category": "computer_science"
+    },
+
+    "algorithms": {
+        "aliases": [],
+        "category": "computer_science"
+    },
+
+    "dynamic programming": {
+        "aliases": ["dp"],
+        "category": "algorithms"
+    },
+
+    "graph algorithms": {
+        "aliases": [],
+        "category": "algorithms"
+    },
+
+    "greedy algorithms": {
+        "aliases": [],
+        "category": "algorithms"
+    },
+
+    "recursion": {
+        "aliases": [],
+        "category": "algorithms"
+    },
+
+    "backtracking": {
+        "aliases": [],
+        "category": "algorithms"
+    },
+
+    "time complexity": {
+        "aliases": ["big o", "big o notation"],
+        "category": "computer_science"
+    },
+
+    "html": {
+        "aliases": ["html5"],
+        "category": "frontend"
+    },
+
+    "css": {
+        "aliases": ["css3"],
+        "category": "frontend"
+    },
+
+    "sass": {
+        "aliases": ["scss"],
+        "category": "frontend"
+    },
+
+    "tailwind css": {
+        "aliases": ["tailwind"],
+        "category": "frontend"
+    },
+
+    "bootstrap": {
+        "aliases": [],
+        "category": "frontend"
+    },
+
+    "react": {
+        "aliases": ["reactjs"],
+        "category": "frontend_framework"
+    },
+
+    "next.js": {
+        "aliases": ["nextjs"],
+        "category": "frontend_framework"
+    },
+
+    "vue.js": {
+        "aliases": ["vuejs"],
+        "category": "frontend_framework"
+    },
+
+    "angular": {
+        "aliases": ["angularjs"],
+        "category": "frontend_framework"
+    },
+
+    "svelte": {
+        "aliases": [],
+        "category": "frontend_framework"
+    },
+
+    "redux": {
+        "aliases": [],
+        "category": "frontend_state_management"
+    },
+
+    "zustand": {
+        "aliases": [],
+        "category": "frontend_state_management"
+    },
+
+    "webpack": {
+        "aliases": [],
+        "category": "frontend_build_tool"
+    },
+
+    "vite": {
+        "aliases": [],
+        "category": "frontend_build_tool"
+    },
+
+    "node.js": {
+        "aliases": ["nodejs", "node"],
+        "category": "backend_runtime"
+    },
+
+    "express": {
+        "aliases": ["expressjs"],
+        "category": "backend_framework"
+    },
+
+    "nestjs": {
+        "aliases": [],
+        "category": "backend_framework"
+    },
+
+    "django": {
+        "aliases": [],
+        "category": "backend_framework"
+    },
+
+    "flask": {
+        "aliases": [],
+        "category": "backend_framework"
+    },
+
+    "fastapi": {
+        "aliases": [],
+        "category": "backend_framework"
+    },
+
+    "spring boot": {
+        "aliases": ["springboot"],
+        "category": "backend_framework"
+    },
+
+    "hibernate": {
+        "aliases": [],
+        "category": "backend_framework"
+    },
+
+    "laravel": {
+        "aliases": [],
+        "category": "backend_framework"
+    },
+
+    "ruby on rails": {
+        "aliases": ["rails"],
+        "category": "backend_framework"
+    },
+
+    "asp.net": {
+        "aliases": ["asp.net core", "dotnet"],
+        "category": "backend_framework"
+    },
+
+    "graphql": {
+        "aliases": [],
+        "category": "api_technology"
+    },
+
+    "grpc": {
+        "aliases": [],
+        "category": "api_technology"
+    },
+
+    "rest api": {
+        "aliases": [
+            "restful api",
+            "api development"
+        ],
+        "category": "api_technology"
+    },
+
+    "websockets": {
+        "aliases": ["websocket"],
+        "category": "communication_protocol"
+    },
+
+    "socket.io": {
+        "aliases": ["socketio"],
+        "category": "communication_protocol"
+    },
+
+
+    "mysql": {
+        "aliases": [],
+        "category": "database"
+    },
+
+    "postgresql": {
+        "aliases": ["postgres"],
+        "category": "database"
+    },
+
+    "sqlite": {
+        "aliases": [],
+        "category": "database"
+    },
+
+    "mongodb": {
+        "aliases": ["mongo"],
+        "category": "database"
+    },
+
+    "redis": {
+        "aliases": [],
+        "category": "database"
+    },
+
+    "cassandra": {
+        "aliases": [],
+        "category": "database"
+    },
+
+    "firebase": {
+        "aliases": [],
+        "category": "backend_service"
+    },
+
+    "supabase": {
+        "aliases": [],
+        "category": "backend_service"
+    },
+
+    "elasticsearch": {
+        "aliases": ["elastic search"],
+        "category": "search_database"
+    },
+
+    "neo4j": {
+        "aliases": [],
+        "category": "graph_database"
+    },
+
+    "docker": {
+        "aliases": [],
+        "category": "containerization"
+    },
+
+    "kubernetes": {
+        "aliases": ["k8s"],
+        "category": "orchestration"
+    },
+
+    "nginx": {
+        "aliases": [],
+        "category": "web_server"
+    },
+
+    "apache": {
+        "aliases": ["apache server"],
+        "category": "web_server"
+    },
+
+    "aws": {
+        "aliases": ["amazon web services"],
+        "category": "cloud"
+    },
+
+    "azure": {
+        "aliases": ["microsoft azure"],
+        "category": "cloud"
+    },
+
+    "gcp": {
+        "aliases": ["google cloud platform"],
+        "category": "cloud"
+    },
+
+    "ec2": {
+        "aliases": [],
+        "category": "aws_service"
+    },
+
+    "s3": {
+        "aliases": [],
+        "category": "aws_service"
+    },
+
+    "lambda": {
+        "aliases": ["aws lambda"],
+        "category": "aws_service"
+    },
+
+    "cloud computing": {
+        "aliases": [],
+        "category": "cloud"
+    },
+
+    "ci/cd": {
+        "aliases": [
+            "continuous integration",
+            "continuous deployment"
+        ],
+        "category": "devops"
+    },
+
+    "jenkins": {
+        "aliases": [],
+        "category": "devops"
+    },
+
+    "github actions": {
+        "aliases": [],
+        "category": "devops"
+    },
+
+    "terraform": {
+        "aliases": [],
+        "category": "infrastructure_as_code"
+    },
+
+    "ansible": {
+        "aliases": [],
+        "category": "automation"
+    },
+
+    "unit testing": {
+        "aliases": [],
+        "category": "testing"
+    },
+
+    "integration testing": {
+        "aliases": [],
+        "category": "testing"
+    },
+
+    "end to end testing": {
+        "aliases": ["e2e testing"],
+        "category": "testing"
+    },
+
+    "pytest": {
+        "aliases": [],
+        "category": "testing_framework"
+    },
+
+    "jest": {
+        "aliases": [],
+        "category": "testing_framework"
+    },
+
+    "mocha": {
+        "aliases": [],
+        "category": "testing_framework"
+    },
+
+    "cypress": {
+        "aliases": [],
+        "category": "testing_framework"
+    },
+
+    "playwright": {
+        "aliases": [],
+        "category": "testing_framework"
+    },
+
+    "selenium": {
+        "aliases": [],
+        "category": "automation_testing"
+    },
+
+    "postman": {
+        "aliases": [],
+        "category": "api_testing"
+    },
+
+    "git": {
+        "aliases": [],
+        "category": "version_control"
+    },
+
+    "github": {
+        "aliases": [],
+        "category": "version_control"
+    },
+
+    "gitlab": {
+        "aliases": [],
+        "category": "version_control"
+    },
+
+    "bitbucket": {
+        "aliases": [],
+        "category": "version_control"
+    },
+
+    "jira": {
+        "aliases": [],
+        "category": "project_management"
+    },
+
+    "agile": {
+        "aliases": [],
+        "category": "software_methodology"
+    },
+
+    "scrum": {
+        "aliases": [],
+        "category": "software_methodology"
+    },
+
+    "authentication": {
+        "aliases": ["auth"],
+        "category": "security"
+    },
+
+    "authorization": {
+        "aliases": [],
+        "category": "security"
+    },
+
+    "jwt": {
+        "aliases": ["json web token"],
+        "category": "security"
+    },
+
+    "oauth": {
+        "aliases": ["oauth2"],
+        "category": "security"
+    },
+
+    "encryption": {
+        "aliases": [],
+        "category": "security"
+    },
+
+    "owasp": {
+        "aliases": [],
+        "category": "security"
+    },
+
+    "vscode": {
+        "aliases": ["visual studio code"],
+        "category": "ide"
+    },
+
+    "intellij": {
+        "aliases": ["intellij idea"],
+        "category": "ide"
+    },
+
+    "pycharm": {
+        "aliases": [],
+        "category": "ide"
+    },
+
+    "android studio": {
+        "aliases": [],
+        "category": "ide"
+    },
+
+    "linux": {
+        "aliases": ["ubuntu"],
+        "category": "operating_system"
+    },
+
+    "unix": {
+        "aliases": [],
+        "category": "operating_system"
+    },
+
+    "jupyter": {
+        "aliases": ["jupyter notebook"],
+        "category": "development_tool"
+    },
+
+    "google colab": {
+        "aliases": ["colab"],
+        "category": "development_tool"
+    },
+
+    "android": {
+        "aliases": ["android development"],
+        "category": "mobile_development"
+    },
+
+    "ios": {
+        "aliases": ["ios development"],
+        "category": "mobile_development"
+    },
+
+    "react native": {
+        "aliases": [],
+        "category": "mobile_framework"
+    },
+
+    "flutter": {
+        "aliases": [],
+        "category": "mobile_framework"
+    },
+
+    "debugging": {
+        "aliases": [],
+        "category": "software_engineering_concept"
+    },
+
+    "refactoring": {
+        "aliases": [],
+        "category": "software_engineering_concept"
+    },
+
+    "code review": {
+        "aliases": [],
+        "category": "software_engineering_concept"
+    },
+
+    "scalability": {
+        "aliases": [],
+        "category": "software_engineering_concept"
+    },
+
+    "performance optimization": {
+        "aliases": [],
+        "category": "software_engineering_concept"
+    },
+
+    "memory optimization": {
+        "aliases": [],
+        "category": "software_engineering_concept"
+    },
+
+    "load balancing": {
+        "aliases": [],
+        "category": "software_engineering_concept"
+    },
+
+    "caching": {
+        "aliases": [],
+        "category": "software_engineering_concept"
+    },
+
+    "message queues": {
+        "aliases": [],
+        "category": "distributed_systems"
+    },
+
+    "rabbitmq": {
+        "aliases": [],
+        "category": "distributed_systems"
+    },
+
+    "kafka": {
+        "aliases": [],
+        "category": "distributed_systems"
+    }
+}

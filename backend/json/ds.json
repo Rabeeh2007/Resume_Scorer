@@ -1,0 +1,937 @@
+{
+    "python": {
+        "aliases": ["py", "python3"],
+        "category": "programming_language",
+        "weight": 8
+    },
+
+    "r": {
+        "aliases": ["r programming"],
+        "category": "programming_language",
+        "weight": 6
+    },
+
+    "sql": {
+        "aliases": [],
+        "category": "query_language",
+        "weight": 8
+    },
+
+    "scala": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 7
+    },
+
+    "julia": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 8
+    },
+
+    "matlab": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 6
+    },
+
+    "sas": {
+        "aliases": [],
+        "category": "analytics_tool",
+        "weight": 6
+    },
+
+    "bash": {
+        "aliases": ["shell scripting", "sh"],
+        "category": "scripting",
+        "weight": 6
+    },
+
+    "numpy": {
+        "aliases": ["np"],
+        "category": "data_analysis",
+        "weight": 8
+    },
+
+    "pandas": {
+        "aliases": ["pd"],
+        "category": "data_analysis",
+        "weight": 8
+    },
+
+    "polars": {
+        "aliases": [],
+        "category": "data_analysis",
+        "weight": 8
+    },
+
+    "scipy": {
+        "aliases": [],
+        "category": "data_analysis",
+        "weight": 8
+    },
+
+    "statsmodels": {
+        "aliases": [],
+        "category": "statistics_library",
+        "weight": 8
+    },
+
+    "datatable": {
+        "aliases": [],
+        "category": "data_analysis",
+        "weight": 6
+    },
+
+    "modin": {
+        "aliases": [],
+        "category": "data_analysis",
+        "weight": 7
+    },
+
+    "vaex": {
+        "aliases": [],
+        "category": "data_analysis",
+        "weight": 7
+    },
+
+    "openpyxl": {
+        "aliases": [],
+        "category": "spreadsheet_library",
+        "weight": 5
+    },
+
+    "xlsxwriter": {
+        "aliases": [],
+        "category": "spreadsheet_library",
+        "weight": 5
+    },
+
+    "matplotlib": {
+        "aliases": ["mpl"],
+        "category": "visualization",
+        "weight": 7
+    },
+
+    "seaborn": {
+        "aliases": ["sns"],
+        "category": "visualization",
+        "weight": 7
+    },
+
+    "plotly": {
+        "aliases": [],
+        "category": "visualization",
+        "weight": 7
+    },
+
+    "bokeh": {
+        "aliases": [],
+        "category": "visualization",
+        "weight": 6
+    },
+
+    "altair": {
+        "aliases": [],
+        "category": "visualization",
+        "weight": 6
+    },
+
+    "ggplot": {
+        "aliases": [],
+        "category": "visualization",
+        "weight": 7
+    },
+
+    "tableau": {
+        "aliases": [],
+        "category": "bi_tool",
+        "weight": 7
+    },
+
+    "power bi": {
+        "aliases": ["powerbi"],
+        "category": "bi_tool",
+        "weight": 7
+    },
+
+    "looker": {
+        "aliases": [],
+        "category": "bi_tool",
+        "weight": 7
+    },
+
+    "excel": {
+        "aliases": ["ms excel"],
+        "category": "spreadsheet",
+        "weight": 6
+    },
+
+    "data science": {
+        "aliases": ["ds"],
+        "category": "core_ds",
+        "weight": 6
+    },
+
+    "data analytics": {
+        "aliases": ["analytics"],
+        "category": "core_ds",
+        "weight": 6
+    },
+
+    "business analytics": {
+        "aliases": [],
+        "category": "core_ds",
+        "weight": 6
+    },
+
+    "predictive analytics": {
+        "aliases": [],
+        "category": "core_ds",
+        "weight": 9
+    },
+
+    "statistical analysis": {
+        "aliases": [],
+        "category": "core_ds",
+        "weight": 8
+    },
+
+    "exploratory data analysis": {
+        "aliases": ["eda"],
+        "category": "core_ds",
+        "weight": 9
+    },
+
+    "data storytelling": {
+        "aliases": [],
+        "category": "core_ds",
+        "weight": 6
+    },
+
+    "decision science": {
+        "aliases": [],
+        "category": "core_ds",
+        "weight": 7
+    },
+
+    "machine learning": {
+        "aliases": ["ml"],
+        "category": "machine_learning",
+        "weight": 10
+    },
+    "deep learning": {
+        "aliases": ["dl"],
+        "category": "machine_learning",
+        "weight": 10
+    },
+
+    "supervised learning": {
+        "aliases": [],
+        "category": "machine_learning",
+        "weight": 8
+    },
+
+    "unsupervised learning": {
+        "aliases": [],
+        "category": "machine_learning",
+        "weight": 8
+    },
+
+    "semi supervised learning": {
+        "aliases": [],
+        "category": "machine_learning",
+        "weight": 9
+    },
+
+    "ensemble learning": {
+        "aliases": [],
+        "category": "machine_learning",
+        "weight": 9
+    },
+
+    "transfer learning": {
+        "aliases": [],
+        "category": "machine_learning",
+        "weight": 9
+    },
+
+    "classification": {
+        "aliases": [],
+        "category": "ml_task",
+        "weight": 7
+    },
+
+    "regression": {
+        "aliases": [],
+        "category": "ml_task",
+        "weight": 7
+    },
+
+    "clustering": {
+        "aliases": [],
+        "category": "ml_task",
+        "weight": 7
+    },
+
+    "dimensionality reduction": {
+        "aliases": [],
+        "category": "ml_task",
+        "weight": 8
+    },
+
+    "recommendation systems": {
+        "aliases": ["recommender systems"],
+        "category": "ml_application",
+        "weight": 9
+    },
+
+    "forecasting": {
+        "aliases": ["time series forecasting"],
+        "category": "ml_application",
+        "weight": 9
+    },
+
+    "anomaly detection": {
+        "aliases": [],
+        "category": "ml_application",
+        "weight": 9
+    },
+
+    "scikit-learn": {
+        "aliases": ["sklearn", "scikit learn"],
+        "category": "ml_library",
+        "weight": 8
+    },
+
+    "xgboost": {
+        "aliases": ["xgb"],
+        "category": "ml_library",
+        "weight": 9
+    },
+
+    "lightgbm": {
+        "aliases": ["lgbm"],
+        "category": "ml_library",
+        "weight": 9
+    },
+
+    "catboost": {
+        "aliases": [],
+        "category": "ml_library",
+        "weight": 9
+    },
+
+    "h2o": {
+        "aliases": ["h2oai"],
+        "category": "ml_library",
+        "weight": 7
+    },
+
+    "mlflow": {
+        "aliases": [],
+        "category": "mlops",
+        "weight": 9
+    },
+
+    "optuna": {
+        "aliases": [],
+        "category": "hyperparameter_tuning",
+        "weight": 9
+    },
+
+    "hyperopt": {
+        "aliases": [],
+        "category": "hyperparameter_tuning",
+        "weight": 8
+    },
+
+    "linear regression": {
+        "aliases": [],
+        "category": "ml_algorithm",
+        "weight": 6
+    },
+
+    "logistic regression": {
+        "aliases": [],
+        "category": "ml_algorithm",
+        "weight": 7
+    },
+
+    "decision tree": {
+        "aliases": ["dt"],
+        "category": "ml_algorithm",
+        "weight": 6
+    },
+
+    "random forest": {
+        "aliases": ["rf"],
+        "category": "ml_algorithm",
+        "weight": 8
+    },
+
+    "gradient boosting": {
+        "aliases": ["gbm"],
+        "category": "ml_algorithm",
+        "weight": 9
+    },
+
+    "xgboost algorithm": {
+        "aliases": [],
+        "category": "ml_algorithm",
+        "weight": 9
+    },
+
+    "svm": {
+        "aliases": ["support vector machine"],
+        "category": "ml_algorithm",
+        "weight": 7
+    },
+
+    "knn": {
+        "aliases": ["k nearest neighbors"],
+        "category": "ml_algorithm",
+        "weight": 5
+    },
+
+    "naive bayes": {
+        "aliases": ["nb"],
+        "category": "ml_algorithm",
+        "weight": 5
+    },
+
+    "kmeans": {
+        "aliases": ["k means clustering"],
+        "category": "ml_algorithm",
+        "weight": 7
+    },
+
+    "dbscan": {
+        "aliases": [],
+        "category": "ml_algorithm",
+        "weight": 8
+    },
+
+    "hierarchical clustering": {
+        "aliases": [],
+        "category": "ml_algorithm",
+        "weight": 7
+    },
+
+    "pca": {
+        "aliases": ["principal component analysis"],
+        "category": "ml_algorithm",
+        "weight": 7
+    },
+
+    "tsne": {
+        "aliases": ["t-sne"],
+        "category": "ml_algorithm",
+        "weight": 7
+    },
+
+    "umap": {
+        "aliases": [],
+        "category": "ml_algorithm",
+        "weight": 8
+    },
+
+    "feature engineering": {
+        "aliases": [],
+        "category": "feature_engineering",
+        "weight": 10
+    },
+
+    "feature selection": {
+        "aliases": [],
+        "category": "feature_engineering",
+        "weight": 9
+    },
+
+    "feature extraction": {
+        "aliases": [],
+        "category": "feature_engineering",
+        "weight": 8
+    },
+
+    "data preprocessing": {
+        "aliases": [],
+        "category": "data_preprocessing",
+        "weight": 7
+    },
+
+    "data cleaning": {
+        "aliases": [],
+        "category": "data_preprocessing",
+        "weight": 7
+    },
+
+    "data wrangling": {
+        "aliases": [],
+        "category": "data_preprocessing",
+        "weight": 7
+    },
+
+    "cross validation": {
+        "aliases": [],
+        "category": "model_validation",
+        "weight": 9
+    },
+
+    "hyperparameter tuning": {
+        "aliases": [],
+        "category": "model_optimization",
+        "weight": 9
+    },
+
+    "model evaluation": {
+        "aliases": [],
+        "category": "model_validation",
+        "weight": 9
+    },
+
+    "bias variance tradeoff": {
+        "aliases": [],
+        "category": "ml_concept",
+        "weight": 8
+    },
+
+    "overfitting": {
+        "aliases": [],
+        "category": "ml_concept",
+        "weight": 7
+    },
+
+    "underfitting": {
+        "aliases": [],
+        "category": "ml_concept",
+        "weight": 6
+    },
+
+    "accuracy": {
+        "aliases": [],
+        "category": "evaluation_metric",
+        "weight": 4
+    },
+
+    "precision": {
+        "aliases": [],
+        "category": "evaluation_metric",
+        "weight": 6
+    },
+
+    "recall": {
+        "aliases": [],
+        "category": "evaluation_metric",
+        "weight": 6
+    },
+
+    "f1 score": {
+        "aliases": ["f1"],
+        "category": "evaluation_metric",
+        "weight": 7
+    },
+
+    "roc auc": {
+        "aliases": ["auc"],
+        "category": "evaluation_metric",
+        "weight": 8
+    },
+
+    "confusion matrix": {
+        "aliases": [],
+        "category": "evaluation_metric",
+        "weight": 5
+    },
+
+    "mae": {
+        "aliases": ["mean absolute error"],
+        "category": "evaluation_metric",
+        "weight": 5
+    },
+
+    "mse": {
+        "aliases": ["mean squared error"],
+        "category": "evaluation_metric",
+        "weight": 5
+    },
+
+    "rmse": {
+        "aliases": ["root mean squared error"],
+        "category": "evaluation_metric",
+        "weight": 6
+    },
+
+    "r2 score": {
+        "aliases": [],
+        "category": "evaluation_metric",
+        "weight": 5
+    },
+
+    "silhouette score": {
+        "aliases": [],
+        "category": "evaluation_metric",
+        "weight": 7
+    },
+
+    "statistics": {
+        "aliases": [],
+        "category": "mathematics",
+        "weight": 8
+    },
+
+    "probability": {
+        "aliases": [],
+        "category": "mathematics",
+        "weight": 8
+    },
+
+    "linear algebra": {
+        "aliases": [],
+        "category": "mathematics",
+        "weight": 8
+    },
+
+    "calculus": {
+        "aliases": [],
+        "category": "mathematics",
+        "weight": 7
+    },
+
+    "optimization": {
+        "aliases": [],
+        "category": "mathematics",
+        "weight": 10
+    },
+
+    "hypothesis testing": {
+        "aliases": [],
+        "category": "statistics",
+        "weight": 8
+    },
+
+    "a/b testing": {
+        "aliases": ["ab testing"],
+        "category": "statistics",
+        "weight": 8
+    },
+
+    "bayesian statistics": {
+        "aliases": [],
+        "category": "statistics",
+        "weight": 10
+    },
+
+    "descriptive statistics": {
+        "aliases": [],
+        "category": "statistics",
+        "weight": 6
+    },
+
+    "inferential statistics": {
+        "aliases": [],
+        "category": "statistics",
+        "weight": 8
+    },
+
+    "sampling": {
+        "aliases": [],
+        "category": "statistics",
+        "weight": 6
+    },
+
+    "normal distribution": {
+        "aliases": ["gaussian distribution"],
+        "category": "statistics",
+        "weight": 6
+    },
+
+    "apache spark": {
+        "aliases": ["spark", "pyspark"],
+        "category": "big_data",
+        "weight": 9
+    },
+
+    "hadoop": {
+        "aliases": [],
+        "category": "big_data",
+        "weight": 7
+    },
+
+    "kafka": {
+        "aliases": [],
+        "category": "stream_processing",
+        "weight": 9
+    },
+
+    "airflow": {
+        "aliases": ["apache airflow"],
+        "category": "orchestration",
+        "weight": 8
+    },
+
+    "etl": {
+        "aliases": [],
+        "category": "data_engineering",
+        "weight": 8
+    },
+
+    "data pipeline": {
+        "aliases": [],
+        "category": "data_engineering",
+        "weight": 8
+    },
+
+    "data warehousing": {
+        "aliases": [],
+        "category": "data_engineering",
+        "weight": 7
+    },
+
+    "data lake": {
+        "aliases": [],
+        "category": "data_engineering",
+        "weight": 7
+    },
+
+    "snowflake": {
+        "aliases": [],
+        "category": "data_warehouse",
+        "weight": 8
+    },
+
+    "bigquery": {
+        "aliases": [],
+        "category": "data_warehouse",
+        "weight": 8
+    },
+
+    "dbt": {
+        "aliases": [],
+        "category": "data_engineering",
+        "weight": 8
+    },
+
+    "duckdb": {
+        "aliases": [],
+        "category": "analytics_database",
+        "weight": 8
+    },
+
+    "mysql": {
+        "aliases": [],
+        "category": "database",
+        "weight": 6
+    },
+
+    "postgresql": {
+        "aliases": ["postgres"],
+        "category": "database",
+        "weight": 7
+    },
+
+    "sqlite": {
+        "aliases": [],
+        "category": "database",
+        "weight": 4
+    },
+
+    "mongodb": {
+        "aliases": ["mongo"],
+        "category": "database",
+        "weight": 7
+    },
+
+    "redis": {
+        "aliases": [],
+        "category": "database",
+        "weight": 6
+    },
+
+    "cassandra": {
+        "aliases": [],
+        "category": "database",
+        "weight": 7
+    },
+
+    "elasticsearch": {
+        "aliases": ["elastic search"],
+        "category": "search_database",
+        "weight": 7
+    },
+
+    "aws": {
+        "aliases": ["amazon web services"],
+        "category": "cloud",
+        "weight": 7
+    },
+
+    "azure": {
+        "aliases": ["microsoft azure"],
+        "category": "cloud",
+        "weight": 7
+    },
+
+    "gcp": {
+        "aliases": ["google cloud platform"],
+        "category": "cloud",
+        "weight": 7
+    },
+
+    "sagemaker": {
+        "aliases": ["amazon sagemaker"],
+        "category": "aws_ml_service",
+        "weight": 8
+    },
+
+    "docker": {
+        "aliases": [],
+        "category": "containerization",
+        "weight": 8
+    },
+
+    "kubernetes": {
+        "aliases": ["k8s"],
+        "category": "orchestration",
+        "weight": 8
+    },
+
+    "dvc": {
+        "aliases": [],
+        "category": "mlops",
+        "weight": 8
+    },
+
+    "kubeflow": {
+        "aliases": [],
+        "category": "mlops",
+        "weight": 9
+    },
+
+    "wandb": {
+        "aliases": ["weights and biases"],
+        "category": "experiment_tracking",
+        "weight": 8
+    },
+
+    "clearml": {
+        "aliases": [],
+        "category": "experiment_tracking",
+        "weight": 7
+    },
+
+    "neptune": {
+        "aliases": [],
+        "category": "experiment_tracking",
+        "weight": 7
+    },
+
+    "tensorflow": {
+        "aliases": ["tf"],
+        "category": "experiment_tracking",
+        "weight": 9
+    },
+
+    "pytorch": {
+        "aliases": ["torch"],
+        "category": "experiment_tracking",
+        "weight": 9
+    },
+
+    "jupyter": {
+        "aliases": ["jupyter notebook"],
+        "category": "development_tool",
+        "weight": 5
+    },
+
+    "google colab": {
+        "aliases": ["colab"],
+        "category": "development_tool",
+        "weight": 5
+    },
+
+    "vscode": {
+        "aliases": ["visual studio code"],
+        "category": "ide",
+        "weight": 4
+    },
+
+    "pycharm": {
+        "aliases": [],
+        "category": "ide",
+        "weight": 4
+    },
+
+    "linux": {
+        "aliases": ["ubuntu"],
+        "category": "operating_system",
+        "weight": 5
+    },
+
+    "git": {
+        "aliases": [],
+        "category": "version_control",
+        "weight": 5
+    },
+
+    "github": {
+        "aliases": [],
+        "category": "version_control",
+        "weight": 5
+    },
+
+    "gitlab": {
+        "aliases": [],
+        "category": "version_control",
+        "weight": 4
+    },
+
+
+    "customer segmentation": {
+        "aliases": [],
+        "category": "ds_application",
+        "weight": 7
+    },
+
+    "fraud detection": {
+        "aliases": [],
+        "category": "ds_application",
+        "weight": 9
+    },
+
+    "churn prediction": {
+        "aliases": [],
+        "category": "ds_application",
+        "weight": 8
+    },
+
+    "sales forecasting": {
+        "aliases": [],
+        "category": "ds_application",
+        "weight": 8
+    },
+
+    "predictive maintenance": {
+        "aliases": [],
+        "category": "ds_application",
+        "weight": 9
+    },
+
+    "market basket analysis": {
+        "aliases": [],
+        "category": "ds_application",
+        "weight": 7
+    },
+
+    "sentiment analysis": {
+        "aliases": [],
+        "category": "ds_application",
+        "weight": 8
+    },
+
+    "recommendation engine": {
+        "aliases": [],
+        "category": "ds_application",
+        "weight": 9
+    }
+}

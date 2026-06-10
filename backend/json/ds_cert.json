@@ -1,0 +1,464 @@
+{
+    "google data analytics professional certificate": {
+        "tier": 5,
+        "provider": "google",
+        "aliases": [
+            "google data analytics",
+            "google analytics cert",
+            "google data analytics cert"
+        ]
+    },
+
+    "google advanced data analytics professional certificate": {
+        "tier": 5,
+        "provider": "google",
+        "aliases": [
+            "google advanced analytics",
+            "google advanced data analytics"
+        ]
+    },
+
+    "google cloud professional data engineer": {
+        "tier": 5,
+        "provider": "google",
+        "aliases": [
+            "google data engineer",
+            "gcp data engineer"
+        ]
+    },
+
+    "google business intelligence certificate": {
+        "tier": 4,
+        "provider": "google",
+        "aliases": [
+            "google bi certificate",
+            "google business intelligence"
+        ]
+    },
+
+    "microsoft certified azure data scientist associate": {
+        "tier": 5,
+        "provider": "microsoft",
+        "aliases": [
+            "azure data scientist",
+            "azure ds associate"
+        ]
+    },
+
+    "microsoft power bi data analyst associate": {
+        "tier": 5,
+        "provider": "microsoft",
+        "aliases": [
+            "power bi analyst",
+            "power bi certification",
+            "power bi associate"
+        ]
+    },
+
+    "microsoft certified azure data fundamentals": {
+        "tier": 4,
+        "provider": "microsoft",
+        "aliases": [
+            "azure data fundamentals",
+            "dp 900"
+        ]
+    },
+
+    "microsoft certified fabric analytics engineer associate": {
+        "tier": 4,
+        "provider": "microsoft",
+        "aliases": [
+            "fabric analytics engineer",
+            "microsoft fabric analytics"
+        ]
+    },
+
+
+    "aws certified data analytics specialty": {
+        "tier": 5,
+        "provider": "aws",
+        "aliases": [
+            "aws analytics specialty",
+            "aws data analytics"
+        ]
+    },
+
+    "aws certified cloud practitioner": {
+        "tier": 3,
+        "provider": "aws",
+        "aliases": [
+            "aws ccp",
+            "aws practitioner"
+        ]
+    },
+
+    "aws certified solutions architect associate": {
+        "tier": 4,
+        "provider": "aws",
+        "aliases": [
+            "aws saa",
+            "aws solutions architect"
+        ]
+    },
+
+
+    "ibm data science professional certificate": {
+        "tier": 5,
+        "provider": "ibm",
+        "aliases": [
+            "ibm data science",
+            "ibm ds cert"
+        ]
+    },
+
+    "ibm data analyst professional certificate": {
+        "tier": 4,
+        "provider": "ibm",
+        "aliases": [
+            "ibm data analyst",
+            "ibm analytics cert"
+        ]
+    },
+
+    "ibm business intelligence analyst": {
+        "tier": 4,
+        "provider": "ibm",
+        "aliases": [
+            "ibm bi analyst",
+            "ibm business intelligence"
+        ]
+    },
+
+
+    "tableau desktop specialist": {
+        "tier": 4,
+        "provider": "tableau",
+        "aliases": [
+            "tableau specialist",
+            "tableau desktop cert"
+        ]
+    },
+
+    "tableau certified data analyst": {
+        "tier": 5,
+        "provider": "tableau",
+        "aliases": [
+            "tableau analyst",
+            "tableau certification"
+        ]
+    },
+
+    "qlik sense data architect certification": {
+        "tier": 4,
+        "provider": "qlik",
+        "aliases": [
+            "qlik architect",
+            "qlik sense certification"
+        ]
+    },
+
+    "sap certified application associate analytics cloud": {
+        "tier": 4,
+        "provider": "sap",
+        "aliases": [
+            "sap analytics cloud",
+            "sap analytics certification"
+        ]
+    },
+
+
+    "sas certified data scientist": {
+        "tier": 5,
+        "provider": "sas",
+        "aliases": [
+            "sas data scientist",
+            "sas ds certification"
+        ]
+    },
+
+    "sas advanced analytics professional": {
+        "tier": 4,
+        "provider": "sas",
+        "aliases": [
+            "sas advanced analytics",
+            "sas analytics professional"
+        ]
+    },
+
+    "sas certified big data professional": {
+        "tier": 4,
+        "provider": "sas",
+        "aliases": [
+            "sas big data",
+            "sas big data certification"
+        ]
+    },
+
+    "oracle business intelligence certification": {
+        "tier": 4,
+        "provider": "oracle",
+        "aliases": [
+            "oracle bi certification",
+            "oracle analytics cert"
+        ]
+    },
+
+    "snowflake snowpro advanced data scientist": {
+        "tier": 4,
+        "provider": "snowflake",
+        "aliases": [
+            "snowflake data scientist",
+            "snowpro data scientist"
+        ]
+    },
+
+    "snowflake snowpro core certification": {
+        "tier": 4,
+        "provider": "snowflake",
+        "aliases": [
+            "snowpro core",
+            "snowflake core cert"
+        ]
+    },
+
+    "databricks certified data engineer professional": {
+        "tier": 5,
+        "provider": "databricks",
+        "aliases": [
+            "databricks data engineer",
+            "databricks engineer professional"
+        ]
+    },
+
+    "databricks certified machine learning professional": {
+        "tier": 5,
+        "provider": "databricks",
+        "aliases": [
+            "databricks ml professional",
+            "databricks ml cert"
+        ]
+    },
+
+    "databricks certified associate developer for apache spark": {
+        "tier": 4,
+        "provider": "databricks",
+        "aliases": [
+            "spark developer associate",
+            "databricks spark developer"
+        ]
+    },
+
+
+    "harvardx data science professional certificate": {
+        "tier": 5,
+        "provider": "harvard",
+        "aliases": [
+            "harvard data science",
+            "harvardx data science"
+        ]
+    },
+
+    "mit professional certificate in data science": {
+        "tier": 5,
+        "provider": "mit",
+        "aliases": [
+            "mit data science certificate",
+            "mit ds certification"
+        ]
+    },
+
+    "johns hopkins data science specialization": {
+        "tier": 4,
+        "provider": "johns hopkins",
+        "aliases": [
+            "jh data science",
+            "johns hopkins ds"
+        ]
+    },
+
+
+    "coursera data science specialization": {
+        "tier": 3,
+        "provider": "coursera",
+        "aliases": [
+            "coursera data science",
+            "coursera ds specialization"
+        ]
+    },
+
+    "coursera business analytics specialization": {
+        "tier": 3,
+        "provider": "coursera",
+        "aliases": [
+            "coursera business analytics",
+            "business analytics specialization"
+        ]
+    },
+
+    "coursera excel to mysql": {
+        "tier": 3,
+        "provider": "coursera",
+        "aliases": [
+            "excel to mysql",
+            "coursera excel mysql"
+        ]
+    },
+
+    "edx statistics and data science": {
+        "tier": 3,
+        "provider": "edx",
+        "aliases": [
+            "edx data science",
+            "edx statistics"
+        ]
+    },
+
+    "kaggle data cleaning": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle cleaning"
+        ]
+    },
+
+    "kaggle data visualization": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle visualization"
+        ]
+    },
+
+    "kaggle pandas": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle pandas course"
+        ]
+    },
+
+    "kaggle sql": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle sql course"
+        ]
+    },
+
+    "kaggle feature engineering": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle feature engineering"
+        ]
+    },
+
+    "kaggle machine learning explainability": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle explainability"
+        ]
+    },
+
+
+    "datacamp data scientist with python": {
+        "tier": 4,
+        "provider": "datacamp",
+        "aliases": [
+            "datacamp data scientist",
+            "data scientist with python"
+        ]
+    },
+
+    "datacamp data analyst with sql": {
+        "tier": 3,
+        "provider": "datacamp",
+        "aliases": [
+            "datacamp sql analyst",
+            "data analyst sql"
+        ]
+    },
+
+    "dataquest data scientist path": {
+        "tier": 3,
+        "provider": "dataquest",
+        "aliases": [
+            "dataquest ds path",
+            "dataquest data science"
+        ]
+    },
+
+    "springboard data science career track": {
+        "tier": 3,
+        "provider": "springboard",
+        "aliases": [
+            "springboard data science",
+            "springboard ds"
+        ]
+    },
+
+    "365 data science program": {
+        "tier": 3,
+        "provider": "365datascience",
+        "aliases": [
+            "365 data science",
+            "365datascience certification"
+        ]
+    },
+
+    "udacity data analyst nanodegree": {
+        "tier": 4,
+        "provider": "udacity",
+        "aliases": [
+            "udacity data analyst",
+            "data analyst nanodegree"
+        ]
+    },
+
+    "udacity data scientist nanodegree": {
+        "tier": 4,
+        "provider": "udacity",
+        "aliases": [
+            "udacity data scientist",
+            "data scientist nanodegree"
+        ]
+    },
+
+
+    "iiit bangalore data science program": {
+        "tier": 4,
+        "provider": "iiit bangalore",
+        "aliases": [
+            "iiit bangalore ds",
+            "iiit b data science"
+        ]
+    },
+
+    "upgrad data science program": {
+        "tier": 3,
+        "provider": "upgrad",
+        "aliases": [
+            "upgrad data science",
+            "upgrad ds"
+        ]
+    },
+
+    "great learning data science and analytics": {
+        "tier": 3,
+        "provider": "great learning",
+        "aliases": [
+            "great learning data science",
+            "great learning analytics"
+        ]
+    },
+
+    "simplilearn data scientist master program": {
+        "tier": 3,
+        "provider": "simplilearn",
+        "aliases": [
+            "simplilearn data scientist",
+            "simplilearn ds"
+        ]
+    }
+}

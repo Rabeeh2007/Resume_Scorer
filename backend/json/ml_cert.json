@@ -1,0 +1,516 @@
+{
+
+    "google professional machine learning engineer": {
+        "tier": 5,
+        "provider": "google",
+        "aliases": [
+            "google ml engineer",
+            "gcp ml engineer",
+            "google professional ml engineer"
+        ]
+    },
+
+    "google advanced data analytics professional certificate": {
+        "tier": 4,
+        "provider": "google",
+        "aliases": [
+            "google advanced analytics",
+            "google advanced data analytics"
+        ]
+    },
+
+    "google data analytics professional certificate": {
+        "tier": 4,
+        "provider": "google",
+        "aliases": [
+            "google data analytics",
+            "google analytics cert"
+        ]
+    },
+
+    "google cloud professional data engineer": {
+        "tier": 5,
+        "provider": "google",
+        "aliases": [
+            "google data engineer",
+            "gcp data engineer"
+        ]
+    },
+
+    "google cloud digital leader": {
+        "tier": 3,
+        "provider": "google",
+        "aliases": [
+            "google digital leader",
+            "gcp digital leader"
+        ]
+    },
+
+
+    "aws certified machine learning specialty": {
+        "tier": 5,
+        "provider": "aws",
+        "aliases": [
+            "aws ml specialty",
+            "aws ml cert"
+        ]
+    },
+
+    "aws certified ai practitioner": {
+        "tier": 4,
+        "provider": "aws",
+        "aliases": [
+            "aws ai practitioner",
+            "aws ai cert"
+        ]
+    },
+
+    "aws certified data analytics specialty": {
+        "tier": 4,
+        "provider": "aws",
+        "aliases": [
+            "aws analytics specialty",
+            "aws data analytics"
+        ]
+    },
+
+    "aws certified solutions architect associate": {
+        "tier": 4,
+        "provider": "aws",
+        "aliases": [
+            "aws saa",
+            "aws solutions architect"
+        ]
+    },
+
+    "aws certified cloud practitioner": {
+        "tier": 3,
+        "provider": "aws",
+        "aliases": [
+            "aws ccp",
+            "aws practitioner"
+        ]
+    },
+
+
+    "microsoft azure ai engineer associate": {
+        "tier": 5,
+        "provider": "microsoft",
+        "aliases": [
+            "azure ai engineer",
+            "azure ai cert"
+        ]
+    },
+
+    "microsoft certified azure data scientist associate": {
+        "tier": 5,
+        "provider": "microsoft",
+        "aliases": [
+            "azure data scientist",
+            "azure ds associate"
+        ]
+    },
+
+    "microsoft certified azure ai fundamentals": {
+        "tier": 3,
+        "provider": "microsoft",
+        "aliases": [
+            "azure ai fundamentals",
+            "ai 900"
+        ]
+    },
+
+    "microsoft certified azure data fundamentals": {
+        "tier": 3,
+        "provider": "microsoft",
+        "aliases": [
+            "azure data fundamentals",
+            "dp 900"
+        ]
+    },
+
+    "microsoft power bi data analyst associate": {
+        "tier": 4,
+        "provider": "microsoft",
+        "aliases": [
+            "power bi analyst",
+            "power bi certification"
+        ]
+    },
+
+
+    "ibm ai engineering professional certificate": {
+        "tier": 5,
+        "provider": "ibm",
+        "aliases": [
+            "ibm ai engineering",
+            "ibm ai cert"
+        ]
+    },
+
+    "ibm data science professional certificate": {
+        "tier": 4,
+        "provider": "ibm",
+        "aliases": [
+            "ibm data science",
+            "ibm ds cert"
+        ]
+    },
+
+    "ibm machine learning professional certificate": {
+        "tier": 4,
+        "provider": "ibm",
+        "aliases": [
+            "ibm ml cert",
+            "ibm machine learning"
+        ]
+    },
+
+    "ibm data analyst professional certificate": {
+        "tier": 3,
+        "provider": "ibm",
+        "aliases": [
+            "ibm data analyst",
+            "ibm analytics cert"
+        ]
+    },
+
+
+    "deeplearning.ai machine learning specialization": {
+        "tier": 4,
+        "provider": "deeplearning.ai",
+        "aliases": [
+            "ml specialization",
+            "andrew ng ml"
+        ]
+    },
+
+    "deeplearning.ai deep learning specialization": {
+        "tier": 4,
+        "provider": "deeplearning.ai",
+        "aliases": [
+            "deep learning specialization",
+            "andrew ng deep learning"
+        ]
+    },
+
+    "deeplearning.ai generative ai specialization": {
+        "tier": 4,
+        "provider": "deeplearning.ai",
+        "aliases": [
+            "genai specialization",
+            "generative ai specialization"
+        ]
+    },
+
+    "deeplearning.ai natural language processing specialization": {
+        "tier": 4,
+        "provider": "deeplearning.ai",
+        "aliases": [
+            "nlp specialization",
+            "deeplearning ai nlp"
+        ]
+    },
+
+    "deeplearning.ai tensorflow developer specialization": {
+        "tier": 4,
+        "provider": "deeplearning.ai",
+        "aliases": [
+            "tensorflow specialization",
+            "tensorflow developer specialization"
+        ]
+    },
+
+    "tensorflow developer certificate": {
+        "tier": 5,
+        "provider": "tensorflow",
+        "aliases": [
+            "tensorflow cert",
+            "tf developer cert"
+        ]
+    },
+
+    "advanced computer vision with tensorflow": {
+        "tier": 4,
+        "provider": "tensorflow",
+        "aliases": [
+            "tensorflow computer vision",
+            "tensorflow cv"
+        ]
+    },
+
+    "natural language processing with tensorflow": {
+        "tier": 4,
+        "provider": "tensorflow",
+        "aliases": [
+            "tensorflow nlp",
+            "nlp with tensorflow"
+        ]
+    },
+
+
+    "databricks certified machine learning professional": {
+        "tier": 5,
+        "provider": "databricks",
+        "aliases": [
+            "databricks ml professional",
+            "databricks ml cert"
+        ]
+    },
+
+    "databricks certified machine learning associate": {
+        "tier": 4,
+        "provider": "databricks",
+        "aliases": [
+            "databricks ml associate"
+        ]
+    },
+
+    "databricks certified associate developer for apache spark": {
+        "tier": 4,
+        "provider": "databricks",
+        "aliases": [
+            "databricks spark developer",
+            "spark developer associate"
+        ]
+    },
+
+    "databricks certified data engineer professional": {
+        "tier": 5,
+        "provider": "databricks",
+        "aliases": [
+            "databricks data engineer"
+        ]
+    },
+
+
+    "nvidia deep learning institute certification": {
+        "tier": 5,
+        "provider": "nvidia",
+        "aliases": [
+            "nvidia dli",
+            "nvidia ai cert"
+        ]
+    },
+
+    "nvidia generative ai certification": {
+        "tier": 4,
+        "provider": "nvidia",
+        "aliases": [
+            "nvidia genai",
+            "nvidia generative ai"
+        ]
+    },
+
+    "hugging face transformers course": {
+        "tier": 3,
+        "provider": "huggingface",
+        "aliases": [
+            "huggingface transformers",
+            "hf transformers"
+        ]
+    },
+
+    "hugging face ai agents course": {
+        "tier": 3,
+        "provider": "huggingface",
+        "aliases": [
+            "hf ai agents",
+            "huggingface agents"
+        ]
+    },
+
+
+    "fastai practical deep learning": {
+        "tier": 4,
+        "provider": "fastai",
+        "aliases": [
+            "fastai deep learning",
+            "fastai dl"
+        ]
+    },
+
+    "stanford machine learning specialization": {
+        "tier": 4,
+        "provider": "stanford",
+        "aliases": [
+            "stanford ml",
+            "cs229"
+        ]
+    },
+
+    "mit professional certificate in machine learning and artificial intelligence": {
+        "tier": 5,
+        "provider": "mit",
+        "aliases": [
+            "mit ai certificate",
+            "mit ml ai"
+        ]
+    },
+
+    "harvardx data science professional certificate": {
+        "tier": 4,
+        "provider": "harvard",
+        "aliases": [
+            "harvard data science",
+            "harvardx data science"
+        ]
+    },
+
+    "kaggle machine learning": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle ml"
+        ]
+    },
+
+    "kaggle deep learning": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle dl"
+        ]
+    },
+
+    "kaggle natural language processing": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle nlp"
+        ]
+    },
+
+    "kaggle computer vision": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle cv"
+        ]
+    },
+
+    "kaggle feature engineering": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle feature engineering course"
+        ]
+    },
+
+    "kaggle machine learning explainability": {
+        "tier": 3,
+        "provider": "kaggle",
+        "aliases": [
+            "kaggle explainability"
+        ]
+    },
+
+    "udacity machine learning engineer nanodegree": {
+        "tier": 4,
+        "provider": "udacity",
+        "aliases": [
+            "udacity ml engineer",
+            "ml nanodegree"
+        ]
+    },
+
+    "udacity deep learning nanodegree": {
+        "tier": 4,
+        "provider": "udacity",
+        "aliases": [
+            "udacity deep learning",
+            "dl nanodegree"
+        ]
+    },
+
+    "udacity ai programming with python nanodegree": {
+        "tier": 3,
+        "provider": "udacity",
+        "aliases": [
+            "ai programming with python"
+        ]
+    },
+
+    "udacity data scientist nanodegree": {
+        "tier": 4,
+        "provider": "udacity",
+        "aliases": [
+            "udacity data scientist"
+        ]
+    },
+
+
+    "coursera machine learning": {
+        "tier": 3,
+        "provider": "coursera",
+        "aliases": [
+            "coursera ml"
+        ]
+    },
+
+    "coursera deep learning specialization": {
+        "tier": 3,
+        "provider": "coursera",
+        "aliases": [
+            "coursera deep learning"
+        ]
+    },
+
+    "coursera ai for everyone": {
+        "tier": 2,
+        "provider": "coursera",
+        "aliases": [
+            "ai for everyone"
+        ]
+    },
+
+    "edx statistics and data science": {
+        "tier": 3,
+        "provider": "edx",
+        "aliases": [
+            "edx data science"
+        ]
+    },
+
+    "edx machine learning fundamentals": {
+        "tier": 2,
+        "provider": "edx",
+        "aliases": [
+            "edx ml fundamentals"
+        ]
+    },
+
+    "machine learning engineering for production mlops": {
+        "tier": 5,
+        "provider": "deeplearning.ai",
+        "aliases": [
+            "mlops specialization",
+            "mlops course"
+        ]
+    },
+
+    "langchain certification": {
+        "tier": 2,
+        "provider": "langchain",
+        "aliases": [
+            "langchain cert"
+        ]
+    },
+
+    "llamaindex certification": {
+        "tier": 2,
+        "provider": "llamaindex",
+        "aliases": [
+            "llamaindex cert"
+        ]
+    },
+
+    "openai api developer certification": {
+        "tier": 3,
+        "provider": "openai",
+        "aliases": [
+            "openai developer cert",
+            "openai api cert"
+        ]
+    }
+}

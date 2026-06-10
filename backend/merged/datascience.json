@@ -1,0 +1,616 @@
+{
+  "python": 8,
+  "r": 6,
+  "sql": 8,
+  "scala": 7,
+  "julia": 8,
+  "matlab": 6,
+  "sas": 6,
+  "bash": 6,
+  "numpy": 8,
+  "pandas": 8,
+  "polars": 8,
+  "scipy": 8,
+  "statsmodels": 8,
+  "datatable": 6,
+  "modin": 7,
+  "vaex": 7,
+  "openpyxl": 5,
+  "xlsxwriter": 5,
+  "matplotlib": 7,
+  "seaborn": 7,
+  "plotly": 7,
+  "bokeh": 6,
+  "altair": 6,
+  "ggplot": 7,
+  "tableau": 7,
+  "power bi": 7,
+  "looker": 7,
+  "excel": 6,
+  "data science": 6,
+  "data analytics": 6,
+  "business analytics": 6,
+  "predictive analytics": 9,
+  "statistical analysis": 8,
+  "exploratory data analysis": 9,
+  "data storytelling": 6,
+  "decision science": 7,
+  "machine learning": 10,
+  "deep learning": 10,
+  "supervised learning": 8,
+  "unsupervised learning": 8,
+  "semi supervised learning": 9,
+  "ensemble learning": 9,
+  "transfer learning": 9,
+  "classification": 7,
+  "regression": 7,
+  "clustering": 7,
+  "dimensionality reduction": 8,
+  "recommendation systems": 9,
+  "forecasting": 9,
+  "anomaly detection": 9,
+  "scikit-learn": 8,
+  "xgboost": 9,
+  "lightgbm": 9,
+  "catboost": 9,
+  "h2o": 7,
+  "mlflow": 9,
+  "optuna": 9,
+  "hyperopt": 8,
+  "linear regression": 6,
+  "logistic regression": 7,
+  "decision tree": 6,
+  "random forest": 8,
+  "gradient boosting": 9,
+  "xgboost algorithm": 9,
+  "svm": 7,
+  "knn": 5,
+  "naive bayes": 5,
+  "kmeans": 7,
+  "dbscan": 8,
+  "hierarchical clustering": 7,
+  "pca": 7,
+  "tsne": 7,
+  "umap": 8,
+  "feature engineering": 10,
+  "feature selection": 9,
+  "feature extraction": 8,
+  "data preprocessing": 7,
+  "data cleaning": 7,
+  "data wrangling": 7,
+  "cross validation": 9,
+  "hyperparameter tuning": 9,
+  "model evaluation": 9,
+  "bias variance tradeoff": 8,
+  "overfitting": 7,
+  "underfitting": 6,
+  "accuracy": 4,
+  "precision": 6,
+  "recall": 6,
+  "f1 score": 7,
+  "roc auc": 8,
+  "confusion matrix": 5,
+  "mae": 5,
+  "mse": 5,
+  "rmse": 6,
+  "r2 score": 5,
+  "silhouette score": 7,
+  "statistics": 8,
+  "probability": 8,
+  "linear algebra": 8,
+  "calculus": 7,
+  "optimization": 10,
+  "hypothesis testing": 8,
+  "a/b testing": 8,
+  "bayesian statistics": 10,
+  "descriptive statistics": 6,
+  "inferential statistics": 8,
+  "sampling": 6,
+  "normal distribution": 6,
+  "apache spark": 9,
+  "hadoop": 7,
+  "kafka": 9,
+  "airflow": 8,
+  "etl": 8,
+  "data pipeline": 8,
+  "data warehousing": 7,
+  "data lake": 7,
+  "snowflake": 8,
+  "bigquery": 8,
+  "dbt": 8,
+  "duckdb": 8,
+  "mysql": 6,
+  "postgresql": 7,
+  "sqlite": 4,
+  "mongodb": 7,
+  "redis": 6,
+  "cassandra": 7,
+  "elasticsearch": 7,
+  "aws": 7,
+  "azure": 7,
+  "gcp": 7,
+  "sagemaker": 8,
+  "docker": 8,
+  "kubernetes": 8,
+  "dvc": 8,
+  "kubeflow": 9,
+  "wandb": 8,
+  "clearml": 7,
+  "neptune": 7,
+  "tensorflow": 9,
+  "pytorch": 9,
+  "jupyter": 5,
+  "google colab": 5,
+  "vscode": 4,
+  "pycharm": 4,
+  "linux": 5,
+  "git": 5,
+  "github": 5,
+  "gitlab": 4,
+  "customer segmentation": 7,
+  "fraud detection": 9,
+  "churn prediction": 8,
+  "sales forecasting": 8,
+  "predictive maintenance": 9,
+  "market basket analysis": 7,
+  "sentiment analysis": 8,
+  "recommendation engine": 9,
+  "py": "python",
+  "pd": "pandas",
+  "mpl": "matplotlib",
+  "sns": "seaborn",
+  "ds": "data science",
+  "eda": "exploratory data analysis",
+  "ml": "machine learning",
+  "dl": "deep learning",
+  "xgb": "xgboost",
+  "lgbm": "lightgbm",
+  "dt": "decision tree",
+  "rf": "random forest",
+  "gbm": "gradient boosting",
+  "nb": "naive bayes",
+  "f1": "f1 score",
+  "auc": "roc auc",
+  "spark": "apache spark",
+  "mongo": "mongodb",
+  "k8s": "kubernetes",
+  "tf": "tensorflow",
+  "torch": "pytorch",
+  "colab": "google colab",
+  "google data analytics professional certificate": {
+    "tier": 5,
+    "provider": "google",
+    "aliases": [
+      "google data analytics",
+      "google analytics cert",
+      "google data analytics cert"
+    ]
+  },
+  "google advanced data analytics professional certificate": {
+    "tier": 5,
+    "provider": "google",
+    "aliases": [
+      "google advanced analytics",
+      "google advanced data analytics"
+    ]
+  },
+  "google cloud professional data engineer": {
+    "tier": 5,
+    "provider": "google",
+    "aliases": [
+      "google data engineer",
+      "gcp data engineer"
+    ]
+  },
+  "google business intelligence certificate": {
+    "tier": 4,
+    "provider": "google",
+    "aliases": [
+      "google bi certificate",
+      "google business intelligence"
+    ]
+  },
+  "microsoft certified azure data scientist associate": {
+    "tier": 5,
+    "provider": "microsoft",
+    "aliases": [
+      "azure data scientist",
+      "azure ds associate"
+    ]
+  },
+  "microsoft power bi data analyst associate": {
+    "tier": 5,
+    "provider": "microsoft",
+    "aliases": [
+      "power bi analyst",
+      "power bi certification",
+      "power bi associate"
+    ]
+  },
+  "microsoft certified azure data fundamentals": {
+    "tier": 4,
+    "provider": "microsoft",
+    "aliases": [
+      "azure data fundamentals",
+      "dp 900"
+    ]
+  },
+  "microsoft certified fabric analytics engineer associate": {
+    "tier": 4,
+    "provider": "microsoft",
+    "aliases": [
+      "fabric analytics engineer",
+      "microsoft fabric analytics"
+    ]
+  },
+  "aws certified data analytics specialty": {
+    "tier": 5,
+    "provider": "aws",
+    "aliases": [
+      "aws analytics specialty",
+      "aws data analytics"
+    ]
+  },
+  "aws certified cloud practitioner": {
+    "tier": 3,
+    "provider": "aws",
+    "aliases": [
+      "aws ccp",
+      "aws practitioner"
+    ]
+  },
+  "aws certified solutions architect associate": {
+    "tier": 4,
+    "provider": "aws",
+    "aliases": [
+      "aws saa",
+      "aws solutions architect"
+    ]
+  },
+  "ibm data science professional certificate": {
+    "tier": 5,
+    "provider": "ibm",
+    "aliases": [
+      "ibm data science",
+      "ibm ds cert"
+    ]
+  },
+  "ibm data analyst professional certificate": {
+    "tier": 4,
+    "provider": "ibm",
+    "aliases": [
+      "ibm data analyst",
+      "ibm analytics cert"
+    ]
+  },
+  "ibm business intelligence analyst": {
+    "tier": 4,
+    "provider": "ibm",
+    "aliases": [
+      "ibm bi analyst",
+      "ibm business intelligence"
+    ]
+  },
+  "tableau desktop specialist": {
+    "tier": 4,
+    "provider": "tableau",
+    "aliases": [
+      "tableau specialist",
+      "tableau desktop cert"
+    ]
+  },
+  "tableau certified data analyst": {
+    "tier": 5,
+    "provider": "tableau",
+    "aliases": [
+      "tableau analyst",
+      "tableau certification"
+    ]
+  },
+  "qlik sense data architect certification": {
+    "tier": 4,
+    "provider": "qlik",
+    "aliases": [
+      "qlik architect",
+      "qlik sense certification"
+    ]
+  },
+  "sap certified application associate analytics cloud": {
+    "tier": 4,
+    "provider": "sap",
+    "aliases": [
+      "sap analytics cloud",
+      "sap analytics certification"
+    ]
+  },
+  "sas certified data scientist": {
+    "tier": 5,
+    "provider": "sas",
+    "aliases": [
+      "sas data scientist",
+      "sas ds certification"
+    ]
+  },
+  "sas advanced analytics professional": {
+    "tier": 4,
+    "provider": "sas",
+    "aliases": [
+      "sas advanced analytics",
+      "sas analytics professional"
+    ]
+  },
+  "sas certified big data professional": {
+    "tier": 4,
+    "provider": "sas",
+    "aliases": [
+      "sas big data",
+      "sas big data certification"
+    ]
+  },
+  "oracle business intelligence certification": {
+    "tier": 4,
+    "provider": "oracle",
+    "aliases": [
+      "oracle bi certification",
+      "oracle analytics cert"
+    ]
+  },
+  "snowflake snowpro advanced data scientist": {
+    "tier": 4,
+    "provider": "snowflake",
+    "aliases": [
+      "snowflake data scientist",
+      "snowpro data scientist"
+    ]
+  },
+  "snowflake snowpro core certification": {
+    "tier": 4,
+    "provider": "snowflake",
+    "aliases": [
+      "snowpro core",
+      "snowflake core cert"
+    ]
+  },
+  "databricks certified data engineer professional": {
+    "tier": 5,
+    "provider": "databricks",
+    "aliases": [
+      "databricks data engineer",
+      "databricks engineer professional"
+    ]
+  },
+  "databricks certified machine learning professional": {
+    "tier": 5,
+    "provider": "databricks",
+    "aliases": [
+      "databricks ml professional",
+      "databricks ml cert"
+    ]
+  },
+  "databricks certified associate developer for apache spark": {
+    "tier": 4,
+    "provider": "databricks",
+    "aliases": [
+      "spark developer associate",
+      "databricks spark developer"
+    ]
+  },
+  "harvardx data science professional certificate": {
+    "tier": 5,
+    "provider": "harvard",
+    "aliases": [
+      "harvard data science",
+      "harvardx data science"
+    ]
+  },
+  "mit professional certificate in data science": {
+    "tier": 5,
+    "provider": "mit",
+    "aliases": [
+      "mit data science certificate",
+      "mit ds certification"
+    ]
+  },
+  "johns hopkins data science specialization": {
+    "tier": 4,
+    "provider": "johns hopkins",
+    "aliases": [
+      "jh data science",
+      "johns hopkins ds"
+    ]
+  },
+  "coursera data science specialization": {
+    "tier": 3,
+    "provider": "coursera",
+    "aliases": [
+      "coursera data science",
+      "coursera ds specialization"
+    ]
+  },
+  "coursera business analytics specialization": {
+    "tier": 3,
+    "provider": "coursera",
+    "aliases": [
+      "coursera business analytics",
+      "business analytics specialization"
+    ]
+  },
+  "coursera excel to mysql": {
+    "tier": 3,
+    "provider": "coursera",
+    "aliases": [
+      "excel to mysql",
+      "coursera excel mysql"
+    ]
+  },
+  "edx statistics and data science": {
+    "tier": 3,
+    "provider": "edx",
+    "aliases": [
+      "edx data science",
+      "edx statistics"
+    ]
+  },
+  "kaggle data cleaning": {
+    "tier": 3,
+    "provider": "kaggle",
+    "aliases": [
+      "kaggle cleaning"
+    ]
+  },
+  "kaggle data visualization": {
+    "tier": 3,
+    "provider": "kaggle",
+    "aliases": [
+      "kaggle visualization"
+    ]
+  },
+  "kaggle pandas": {
+    "tier": 3,
+    "provider": "kaggle",
+    "aliases": [
+      "kaggle pandas course"
+    ]
+  },
+  "kaggle sql": {
+    "tier": 3,
+    "provider": "kaggle",
+    "aliases": [
+      "kaggle sql course"
+    ]
+  },
+  "kaggle feature engineering": {
+    "tier": 3,
+    "provider": "kaggle",
+    "aliases": [
+      "kaggle feature engineering"
+    ]
+  },
+  "kaggle machine learning explainability": {
+    "tier": 3,
+    "provider": "kaggle",
+    "aliases": [
+      "kaggle explainability"
+    ]
+  },
+  "datacamp data scientist with python": {
+    "tier": 4,
+    "provider": "datacamp",
+    "aliases": [
+      "datacamp data scientist",
+      "data scientist with python"
+    ]
+  },
+  "datacamp data analyst with sql": {
+    "tier": 3,
+    "provider": "datacamp",
+    "aliases": [
+      "datacamp sql analyst",
+      "data analyst sql"
+    ]
+  },
+  "dataquest data scientist path": {
+    "tier": 3,
+    "provider": "dataquest",
+    "aliases": [
+      "dataquest ds path",
+      "dataquest data science"
+    ]
+  },
+  "springboard data science career track": {
+    "tier": 3,
+    "provider": "springboard",
+    "aliases": [
+      "springboard data science",
+      "springboard ds"
+    ]
+  },
+  "365 data science program": {
+    "tier": 3,
+    "provider": "365datascience",
+    "aliases": [
+      "365 data science",
+      "365datascience certification"
+    ]
+  },
+  "udacity data analyst nanodegree": {
+    "tier": 4,
+    "provider": "udacity",
+    "aliases": [
+      "udacity data analyst",
+      "data analyst nanodegree"
+    ]
+  },
+  "udacity data scientist nanodegree": {
+    "tier": 4,
+    "provider": "udacity",
+    "aliases": [
+      "udacity data scientist",
+      "data scientist nanodegree"
+    ]
+  },
+  "iiit bangalore data science program": {
+    "tier": 4,
+    "provider": "iiit bangalore",
+    "aliases": [
+      "iiit bangalore ds",
+      "iiit b data science"
+    ]
+  },
+  "upgrad data science program": {
+    "tier": 3,
+    "provider": "upgrad",
+    "aliases": [
+      "upgrad data science",
+      "upgrad ds"
+    ]
+  },
+  "great learning data science and analytics": {
+    "tier": 3,
+    "provider": "great learning",
+    "aliases": [
+      "great learning data science",
+      "great learning analytics"
+    ]
+  },
+  "simplilearn data scientist master program": {
+    "tier": 3,
+    "provider": "simplilearn",
+    "aliases": [
+      "simplilearn data scientist",
+      "simplilearn ds"
+    ]
+  },
+  "root mean squared error": "rmse",
+  "principal component analysis": "pca",
+  "time series forecasting": "forecasting",
+  "support vector machine": "svm",
+  "google cloud platform": "gcp",
+  "k nearest neighbors": "knn",
+  "mean absolute error": "mae",
+  "amazon web services": "aws",
+  "k means clustering": "kmeans",
+  "mean squared error": "mse",
+  "weights and biases": "wandb",
+  "visual studio code": "vscode",
+  "amazon sagemaker": "sagemaker",
+  "jupyter notebook": "jupyter",
+  "shell scripting": "bash",
+  "microsoft azure": "azure",
+  "apache airflow": "airflow",
+  "elastic search": "elasticsearch",
+  "r programming": "r",
+  "scikit learn": "scikit-learn",
+  "ms excel": "excel",
+  "python3": "python",
+  "sh": "bash",
+  "np": "numpy",
+  "powerbi": "power bi",
+  "analytics": "data analytics",
+  "sklearn": "scikit-learn",
+  "h2oai": "h2o",
+  "t-sne": "tsne",
+  "pyspark": "apache spark",
+  "postgres": "postgresql",
+  "ubuntu": "linux"
+}

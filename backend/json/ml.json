@@ -1,0 +1,957 @@
+{
+
+    "python": {
+        "aliases": ["py", "python3"],
+        "category": "programming_language"
+    },
+
+    "r": {
+
+        
+        "aliases": ["r programming"],
+        "category": "programming_language"
+    },
+
+    "java": {
+        "aliases": ["core java"],
+        "category": "programming_language"
+    },
+
+    "c": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "c++": {
+        "aliases": ["cpp"],
+        "category": "programming_language"
+    },
+
+    "c#": {
+        "aliases": ["csharp"],
+        "category": "programming_language"
+    },
+
+    "javascript": {
+        "aliases": ["js"],
+        "category": "programming_language"
+    },
+
+    "typescript": {
+        "aliases": ["ts"],
+        "category": "programming_language"
+    },
+
+    "scala": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "julia": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "matlab": {
+        "aliases": [],
+        "category": "programming_language"
+    },
+
+    "sql": {
+        "aliases": [],
+        "category": "query_language"
+    },
+
+    "bash": {
+        "aliases": ["shell scripting", "sh"],
+        "category": "scripting"
+    },
+
+
+
+    "machine learning": {
+        "aliases": ["ml"],
+        "category": "core_ml"
+    },
+
+    "deep learning": {
+        "aliases": ["dl"],
+        "category": "core_ml"
+    },
+
+    "artificial intelligence": {
+        "aliases": ["ai"],
+        "category": "core_ml"
+    },
+
+    "generative ai": {
+        "aliases": ["genai"],
+        "category": "core_ml"
+    },
+
+    "nlp": {
+        "aliases": ["natural language processing"],
+        "category": "core_ml"
+    },
+
+    "computer vision": {
+        "aliases": ["cv"],
+        "category": "core_ml"
+    },
+
+    "reinforcement learning": {
+        "aliases": ["rl"],
+        "category": "core_ml"
+    },
+
+    "supervised learning": {
+        "aliases": [],
+        "category": "core_ml"
+    },
+
+    "unsupervised learning": {
+        "aliases": [],
+        "category": "core_ml"
+    },
+
+    "semi supervised learning": {
+        "aliases": [],
+        "category": "core_ml"
+    },
+
+    "transfer learning": {
+        "aliases": [],
+        "category": "core_ml"
+    },
+
+    "online learning": {
+        "aliases": [],
+        "category": "core_ml"
+    },
+
+
+    "numpy": {
+        "aliases": ["np"],
+        "category": "data_analysis"
+    },
+
+    "pandas": {
+        "aliases": ["pd"],
+        "category": "data_analysis"
+    },
+
+    "polars": {
+        "aliases": [],
+        "category": "data_analysis"
+    },
+
+    "scipy": {
+        "aliases": [],
+        "category": "data_analysis"
+    },
+
+    "statsmodels": {
+        "aliases": [],
+        "category": "data_analysis"
+    },
+
+    "datatable": {
+        "aliases": [],
+        "category": "data_analysis"
+    },
+
+    "modin": {
+        "aliases": [],
+        "category": "data_analysis"
+    },
+
+    "dask": {
+        "aliases": [],
+        "category": "distributed_computing"
+    },
+
+    "ray": {
+        "aliases": [],
+        "category": "distributed_computing"
+    },
+
+    "vaex": {
+        "aliases": [],
+        "category": "data_analysis"
+    },
+
+
+    "matplotlib": {
+        "aliases": ["mpl"],
+        "category": "visualization"
+    },
+
+    "seaborn": {
+        "aliases": ["sns"],
+        "category": "visualization"
+    },
+
+    "plotly": {
+        "aliases": [],
+        "category": "visualization"
+    },
+
+    "bokeh": {
+        "aliases": [],
+        "category": "visualization"
+    },
+
+    "altair": {
+        "aliases": [],
+        "category": "visualization"
+    },
+
+    "ggplot": {
+        "aliases": [],
+        "category": "visualization"
+    },
+
+    "tableau": {
+        "aliases": [],
+        "category": "bi_tool"
+    },
+
+    "power bi": {
+        "aliases": ["powerbi"],
+        "category": "bi_tool"
+    },
+
+    "looker": {
+        "aliases": [],
+        "category": "bi_tool"
+    },
+
+    "excel": {
+        "aliases": ["ms excel"],
+        "category": "spreadsheet"
+    },
+
+
+
+    "scikit-learn": {
+        "aliases": ["sklearn", "scikit learn"],
+        "category": "ml_library"
+    },
+
+    "xgboost": {
+        "aliases": ["xgb"],
+        "category": "ml_library"
+    },
+
+    "lightgbm": {
+        "aliases": ["lgbm"],
+        "category": "ml_library"
+    },
+
+    "catboost": {
+        "aliases": [],
+        "category": "ml_library"
+    },
+
+    "fastai": {
+        "aliases": [],
+        "category": "ml_library"
+    },
+
+    "h2o": {
+        "aliases": ["h2oai"],
+        "category": "ml_library"
+    },
+
+    "mlflow": {
+        "aliases": [],
+        "category": "mlops"
+    },
+
+    "optuna": {
+        "aliases": [],
+        "category": "hyperparameter_tuning"
+    },
+
+    "hyperopt": {
+        "aliases": [],
+        "category": "hyperparameter_tuning"
+    },
+
+    "tensorflow": {
+        "aliases": ["tf"],
+        "category": "deep_learning_framework"
+    },
+
+    "keras": {
+        "aliases": [],
+        "category": "deep_learning_framework"
+    },
+
+    "pytorch": {
+        "aliases": ["torch"],
+        "category": "deep_learning_framework"
+    },
+
+    "jax": {
+        "aliases": [],
+        "category": "deep_learning_framework"
+    },
+
+    "mxnet": {
+        "aliases": [],
+        "category": "deep_learning_framework"
+    },
+
+    "onnx": {
+        "aliases": [],
+        "category": "deep_learning_framework"
+    },
+
+    "deepspeed": {
+        "aliases": [],
+        "category": "deep_learning_framework"
+    },
+
+
+    "nltk": {
+        "aliases": [],
+        "category": "nlp_library"
+    },
+
+    "spacy": {
+        "aliases": ["spaCy"],
+        "category": "nlp_library"
+    },
+
+    "gensim": {
+        "aliases": [],
+        "category": "nlp_library"
+    },
+
+    "textblob": {
+        "aliases": [],
+        "category": "nlp_library"
+    },
+
+    "transformers": {
+        "aliases": [
+            "huggingface transformers",
+            "hf transformers"
+        ],
+        "category": "nlp_library"
+    },
+
+    "huggingface": {
+        "aliases": ["hf"],
+        "category": "nlp_library"
+    },
+
+    "sentence-transformers": {
+        "aliases": ["sbert"],
+        "category": "nlp_library"
+    },
+
+    "tokenizers": {
+        "aliases": [],
+        "category": "nlp_library"
+    },
+
+    "langchain": {
+        "aliases": [],
+        "category": "llm_framework"
+    },
+
+    "llamaindex": {
+        "aliases": [],
+        "category": "llm_framework"
+    },
+
+    "langgraph": {
+        "aliases": [],
+        "category": "llm_framework"
+    },
+
+    "autogen": {
+        "aliases": [],
+        "category": "llm_framework"
+    },
+
+    "crewai": {
+        "aliases": [],
+        "category": "llm_framework"
+    },
+
+    "opencv": {
+        "aliases": ["cv2"],
+        "category": "computer_vision"
+    },
+
+    "pillow": {
+        "aliases": ["pil"],
+        "category": "computer_vision"
+    },
+
+    "albumentations": {
+        "aliases": [],
+        "category": "computer_vision"
+    },
+
+    "mediapipe": {
+        "aliases": [],
+        "category": "computer_vision"
+    },
+
+    "detectron2": {
+        "aliases": [],
+        "category": "computer_vision"
+    },
+
+    "mmcv": {
+        "aliases": [],
+        "category": "computer_vision"
+    },
+
+    "yolo": {
+        "aliases": ["yolov5", "yolov8"],
+        "category": "computer_vision"
+    },
+
+
+    "faiss": {
+        "aliases": [],
+        "category": "vector_database"
+    },
+
+    "pinecone": {
+        "aliases": [],
+        "category": "vector_database"
+    },
+
+    "chromadb": {
+        "aliases": ["chroma"],
+        "category": "vector_database"
+    },
+
+    "weaviate": {
+        "aliases": [],
+        "category": "vector_database"
+    },
+
+    "milvus": {
+        "aliases": [],
+        "category": "vector_database"
+    },
+
+    "qdrant": {
+        "aliases": [],
+        "category": "vector_database"
+    },
+
+    "rag": {
+        "aliases": ["retrieval augmented generation"],
+        "category": "llm_concept"
+    },
+
+
+    "llm": {
+        "aliases": ["large language model"],
+        "category": "llm_concept"
+    },
+
+    "prompt engineering": {
+        "aliases": [],
+        "category": "llm_concept"
+    },
+
+    "fine tuning": {
+        "aliases": ["finetuning"],
+        "category": "llm_concept"
+    },
+
+    "instruction tuning": {
+        "aliases": [],
+        "category": "llm_concept"
+    },
+
+    "quantization": {
+        "aliases": [],
+        "category": "llm_concept"
+    },
+
+    "lora": {
+        "aliases": ["low rank adaptation"],
+        "category": "llm_concept"
+    },
+
+    "ollama": {
+        "aliases": [],
+        "category": "llm_serving"
+    },
+
+    "vllm": {
+        "aliases": [],
+        "category": "llm_serving"
+    },
+
+
+    "mysql": {
+        "aliases": [],
+        "category": "database"
+    },
+
+    "postgresql": {
+        "aliases": ["postgres"],
+        "category": "database"
+    },
+
+    "sqlite": {
+        "aliases": [],
+        "category": "database"
+    },
+
+    "mongodb": {
+        "aliases": ["mongo"],
+        "category": "database"
+    },
+
+    "redis": {
+        "aliases": [],
+        "category": "database"
+    },
+
+    "cassandra": {
+        "aliases": [],
+        "category": "database"
+    },
+
+    "elasticsearch": {
+        "aliases": ["elastic search"],
+        "category": "search_database"
+    },
+
+    "neo4j": {
+        "aliases": [],
+        "category": "graph_database"
+    },
+
+    "snowflake": {
+        "aliases": [],
+        "category": "data_warehouse"
+    },
+
+    "bigquery": {
+        "aliases": [],
+        "category": "data_warehouse"
+    },
+
+    "apache spark": {
+        "aliases": ["spark", "pyspark"],
+        "category": "big_data"
+    },
+
+    "hadoop": {
+        "aliases": [],
+        "category": "big_data"
+    },
+
+    "kafka": {
+        "aliases": [],
+        "category": "stream_processing"
+    },
+
+    "airflow": {
+        "aliases": ["apache airflow"],
+        "category": "orchestration"
+    },
+
+    "etl": {
+        "aliases": [],
+        "category": "data_engineering"
+    },
+
+    "data pipeline": {
+        "aliases": [],
+        "category": "data_engineering"
+    },
+
+    "data warehousing": {
+        "aliases": [],
+        "category": "data_engineering"
+    },
+
+    "docker": {
+        "aliases": [],
+        "category": "containerization"
+    },
+
+    "kubernetes": {
+        "aliases": ["k8s"],
+        "category": "orchestration"
+    },
+
+    "fastapi": {
+        "aliases": [],
+        "category": "backend_framework"
+    },
+
+    "flask": {
+        "aliases": [],
+        "category": "backend_framework"
+    },
+
+    "django": {
+        "aliases": [],
+        "category": "backend_framework"
+    },
+
+    "streamlit": {
+        "aliases": [],
+        "category": "ml_app_framework"
+    },
+
+    "gradio": {
+        "aliases": [],
+        "category": "ml_app_framework"
+    },
+
+    "rest api": {
+        "aliases": ["api development"],
+        "category": "backend_concept"
+    },
+
+    "ci/cd": {
+        "aliases": [
+            "continuous integration",
+            "continuous deployment"
+        ],
+        "category": "devops"
+    },
+
+    "kubeflow": {
+        "aliases": [],
+        "category": "mlops"
+    },
+
+    "dvc": {
+        "aliases": [],
+        "category": "mlops"
+    },
+
+    "model deployment": {
+        "aliases": [],
+        "category": "mlops"
+    },
+
+    "model monitoring": {
+        "aliases": [],
+        "category": "mlops"
+    },
+
+    "aws": {
+        "aliases": ["amazon web services"],
+        "category": "cloud"
+    },
+
+    "azure": {
+        "aliases": ["microsoft azure"],
+        "category": "cloud"
+    },
+
+    "gcp": {
+        "aliases": ["google cloud platform"],
+        "category": "cloud"
+    },
+
+    "ec2": {
+        "aliases": [],
+        "category": "aws_service"
+    },
+
+    "s3": {
+        "aliases": [],
+        "category": "aws_service"
+    },
+
+    "lambda": {
+        "aliases": ["aws lambda"],
+        "category": "aws_service"
+    },
+
+    "sagemaker": {
+        "aliases": ["amazon sagemaker"],
+        "category": "aws_ml_service"
+    },
+
+    "beautifulsoup": {
+        "aliases": ["bs4"],
+        "category": "web_scraping"
+    },
+
+    "selenium": {
+        "aliases": [],
+        "category": "automation"
+    },
+
+    "scrapy": {
+        "aliases": [],
+        "category": "web_scraping"
+    },
+
+    "playwright": {
+        "aliases": [],
+        "category": "automation"
+    },
+
+    "requests": {
+        "aliases": [],
+        "category": "http_library"
+    },
+
+    "jupyter": {
+        "aliases": ["jupyter notebook"],
+        "category": "development_tool"
+    },
+
+    "google colab": {
+        "aliases": ["colab"],
+        "category": "development_tool"
+    },
+
+    "vscode": {
+        "aliases": ["visual studio code"],
+        "category": "ide"
+    },
+
+    "pycharm": {
+        "aliases": [],
+        "category": "ide"
+    },
+
+    "linux": {
+        "aliases": ["ubuntu"],
+        "category": "operating_system"
+    },
+
+    "git": {
+        "aliases": [],
+        "category": "version_control"
+    },
+
+    "github": {
+        "aliases": [],
+        "category": "version_control"
+    },
+
+    "gitlab": {
+        "aliases": [],
+        "category": "version_control"
+    },
+
+
+    "linear regression": {
+        "aliases": [],
+        "category": "ml_algorithm"
+    },
+
+    "logistic regression": {
+        "aliases": [],
+        "category": "ml_algorithm"
+    },
+
+    "decision tree": {
+        "aliases": ["dt"],
+        "category": "ml_algorithm"
+    },
+
+    "random forest": {
+        "aliases": ["rf"],
+        "category": "ml_algorithm"
+    },
+
+    "xgboost algorithm": {
+        "aliases": [],
+        "category": "ml_algorithm"
+    },
+
+    "svm": {
+        "aliases": ["support vector machine"],
+        "category": "ml_algorithm"
+    },
+
+    "knn": {
+        "aliases": ["k nearest neighbors"],
+        "category": "ml_algorithm"
+    },
+
+    "naive bayes": {
+        "aliases": ["nb"],
+        "category": "ml_algorithm"
+    },
+
+    "kmeans": {
+        "aliases": ["k means clustering"],
+        "category": "ml_algorithm"
+    },
+
+    "dbscan": {
+        "aliases": [],
+        "category": "ml_algorithm"
+    },
+
+    "pca": {
+        "aliases": ["principal component analysis"],
+        "category": "ml_algorithm"
+    },
+
+    "tsne": {
+        "aliases": ["t-sne"],
+        "category": "ml_algorithm"
+    },
+
+    "umap": {
+        "aliases": [],
+        "category": "ml_algorithm"
+    },
+
+
+    "ann": {
+        "aliases": ["artificial neural network"],
+        "category": "deep_learning_concept"
+    },
+
+    "cnn": {
+        "aliases": ["convolutional neural network"],
+        "category": "deep_learning_concept"
+    },
+
+    "rnn": {
+        "aliases": ["recurrent neural network"],
+        "category": "deep_learning_concept"
+    },
+
+    "lstm": {
+        "aliases": [],
+        "category": "deep_learning_concept"
+    },
+
+    "gru": {
+        "aliases": [],
+        "category": "deep_learning_concept"
+    },
+
+    "gan": {
+        "aliases": ["generative adversarial network"],
+        "category": "deep_learning_concept"
+    },
+
+    "autoencoder": {
+        "aliases": ["vae", "variational autoencoder"],
+        "category": "deep_learning_concept"
+    },
+
+    "transformer": {
+        "aliases": [],
+        "category": "deep_learning_concept"
+    },
+
+    "attention mechanism": {
+        "aliases": ["self attention"],
+        "category": "deep_learning_concept"
+    },
+
+    "feature engineering": {
+        "aliases": [],
+        "category": "feature_engineering"
+    },
+
+    "feature selection": {
+        "aliases": [],
+        "category": "feature_engineering"
+    },
+
+    "data preprocessing": {
+        "aliases": [],
+        "category": "data_preprocessing"
+    },
+
+    "data cleaning": {
+        "aliases": [],
+        "category": "data_preprocessing"
+    },
+
+    "cross validation": {
+        "aliases": [],
+        "category": "model_validation"
+    },
+
+    "hyperparameter tuning": {
+        "aliases": [],
+        "category": "model_optimization"
+    },
+
+    "ensemble learning": {
+        "aliases": [],
+        "category": "ml_concept"
+    },
+
+    "model evaluation": {
+        "aliases": [],
+        "category": "ml_concept"
+    },
+
+    "statistics": {
+        "aliases": [],
+        "category": "mathematics"
+    },
+
+    "probability": {
+        "aliases": [],
+        "category": "mathematics"
+    },
+
+    "linear algebra": {
+        "aliases": [],
+        "category": "mathematics"
+    },
+
+    "calculus": {
+        "aliases": [],
+        "category": "mathematics"
+    },
+
+    "optimization": {
+        "aliases": [],
+        "category": "mathematics"
+    },
+
+    "hypothesis testing": {
+        "aliases": [],
+        "category": "statistics"
+    },
+
+    "a/b testing": {
+        "aliases": ["ab testing"],
+        "category": "statistics"
+    },
+
+    "bayesian statistics": {
+        "aliases": [],
+        "category": "statistics"
+    },
+
+    "time series forecasting": {
+        "aliases": ["forecasting"],
+        "category": "time_series"
+    },
+
+    "recommendation systems": {
+        "aliases": ["recommender systems"],
+        "category": "ml_application"
+    },
+
+    "anomaly detection": {
+        "aliases": [],
+        "category": "ml_application"
+    }
+}

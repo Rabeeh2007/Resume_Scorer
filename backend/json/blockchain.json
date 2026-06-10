@@ -1,0 +1,774 @@
+{
+    "solidity": {
+        "aliases": [],
+        "category": "smart_contract_language",
+        "weight": 9
+    },
+
+    "rust": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 7
+    },
+
+    "go": {
+        "aliases": ["golang"],
+        "category": "programming_language",
+        "weight": 7
+    },
+
+    "javascript": {
+        "aliases": ["js"],
+        "category": "programming_language",
+        "weight": 5
+    },
+
+    "typescript": {
+        "aliases": ["ts"],
+        "category": "programming_language",
+        "weight": 7
+    },
+
+    "python": {
+        "aliases": ["py"],
+        "category": "programming_language",
+        "weight": 5
+    },
+
+    "java": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 5
+    },
+
+    "c++": {
+        "aliases": ["cpp"],
+        "category": "programming_language",
+        "weight": 5
+    },
+
+    "move": {
+        "aliases": [],
+        "category": "smart_contract_language",
+        "weight": 9
+    },
+
+    "vyper": {
+        "aliases": [],
+        "category": "smart_contract_language",
+        "weight": 9
+    },
+
+    "haskell": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 8
+    },
+
+    "blockchain": {
+        "aliases": [],
+        "category": "core_blockchain",
+        "weight": 6
+    },
+
+    "web3": {
+        "aliases": ["web3js"],
+        "category": "core_blockchain",
+        "weight": 6
+
+    },
+
+    "distributed ledger": {
+        "aliases": ["dlt"],
+        "category": "core_blockchain",
+        "weight": 7
+    },
+
+    "smart contracts": {
+        "aliases": ["smart contract"],
+        "category": "core_blockchain",
+        "weight": 9
+    },
+
+    "cryptography": {
+        "aliases": [],
+        "category": "core_blockchain",
+        "weight": 10
+    },
+
+    "decentralization": {
+        "aliases": [],
+        "category": "core_blockchain",
+        "weight": 7
+    },
+
+    "consensus algorithms": {
+        "aliases": [],
+        "category": "core_blockchain",
+        "weight": 10
+    },
+
+    "proof of work": {
+        "aliases": ["pow"],
+        "category": "consensus",
+        "weight": 8
+    },
+
+    "proof of stake": {
+        "aliases": ["pos"],
+        "category": "consensus",
+        "weight": 8
+    },
+
+    "delegated proof of stake": {
+        "aliases": ["dpos"],
+        "category": "consensus",
+        "weight": 9
+    },
+
+    "proof of authority": {
+        "aliases": ["poa"],
+        "category": "consensus",
+        "weight": 7
+    },
+
+    "hashing": {
+        "aliases": [],
+        "category": "cryptography",
+        "weight": 7
+    },
+
+    "merkle tree": {
+        "aliases": [],
+        "category": "cryptography",
+        "weight": 8
+    },
+
+    "digital signatures": {
+        "aliases": [],
+        "category": "cryptography",
+        "weight": 8
+    },
+
+    "public key cryptography": {
+        "aliases": [],
+        "category": "cryptography",
+        "weight": 9
+    },
+
+    "private key cryptography": {
+        "aliases": [],
+        "category": "cryptography",
+        "weight": 8
+    },
+
+    "zero knowledge proofs": {
+        "aliases": ["zkp", "zk proofs"],
+        "category": "advanced_blockchain",
+        "weight": 10
+    },
+
+    "zk-snarks": {
+        "aliases": [],
+        "category": "advanced_blockchain",
+        "weight": 10
+    },
+
+    "zk-rollups": {
+        "aliases": [],
+        "category": "layer2",
+        "weight": 9
+    },
+
+    "optimistic rollups": {
+        "aliases": [],
+        "category": "layer2",
+        "weight": 9
+    },
+
+    "bitcoin": {
+        "aliases": ["btc"],
+        "category": "blockchain_network",
+        "weight": 8
+    },
+
+    "ethereum": {
+        "aliases": ["eth"],
+        "category": "blockchain_network",
+        "weight": 9
+    },
+
+    "solana": {
+        "aliases": [],
+        "category": "blockchain_network",
+        "weight": 7
+    },
+
+    "polygon": {
+        "aliases": ["matic"],
+        "category": "blockchain_network",
+        "weight": 7
+    },
+
+    "binance smart chain": {
+        "aliases": ["bsc"],
+        "category": "blockchain_network",
+        "weight": 5
+    },
+
+    "avalanche": {
+        "aliases": ["avax"],
+        "category": "blockchain_network",
+        "weight": 7
+    },
+
+    "arbitrum": {
+        "aliases": [],
+        "category": "layer2",
+        "weight": 7
+    },
+
+    "optimism": {
+        "aliases": [],
+        "category": "layer2",
+        "weight": 7
+    },
+
+    "near": {
+        "aliases": [],
+        "category": "blockchain_network",
+        "weight": 7
+    },
+
+    "cardano": {
+        "aliases": ["ada"],
+        "category": "blockchain_network",
+        "weight": 8
+    },
+
+    "polkadot": {
+        "aliases": ["dot"],
+        "category": "blockchain_network",
+        "weight": 8
+    },
+
+    "cosmos": {
+        "aliases": [],
+        "category": "blockchain_network",
+        "weight": 8
+    },
+
+    "aptos": {
+        "aliases": [],
+        "category": "blockchain_network",
+        "weight": 7
+    },
+
+    "sui": {
+        "aliases": [],
+        "category": "blockchain_network",
+        "weight": 7
+    },
+
+    "hyperledger": {
+        "aliases": ["hyperledger fabric"],
+        "category": "enterprise_blockchain",
+        "weight": 7
+    },
+
+    "openzeppelin": {
+        "aliases": [],
+        "category": "smart_contract_library",
+        "weight": 8
+    },
+
+    "hardhat": {
+        "aliases": [],
+        "category": "smart_contract_framework",
+        "weight": 8
+    },
+
+    "truffle": {
+        "aliases": [],
+        "category": "smart_contract_framework",
+        "weight": 6
+    },
+
+    "foundry": {
+        "aliases": [],
+        "category": "smart_contract_framework",
+        "weight": 8
+    },
+
+    "brownie": {
+        "aliases": [],
+        "category": "smart_contract_framework",
+        "weight": 7
+    },
+
+    "remix": {
+        "aliases": ["remix ide"],
+        "category": "development_tool",
+        "weight": 3
+    },
+
+    "ganache": {
+        "aliases": [],
+        "category": "development_tool",
+        "weight": 3
+    },
+
+    "ethers.js": {
+        "aliases": ["ethersjs"],
+        "category": "web3_library",
+        "weight": 8
+    },
+
+    "web3.py": {
+        "aliases": ["web3"],
+        "category": "web3_library",
+        "weight": 8
+    },
+
+    "web3.js": {
+        "aliases": ["web3"],
+        "category": "web3_library",
+        "weight": 8
+    },
+
+    "viem": {
+        "aliases": [],
+        "category": "web3_library",
+        "weight": 6
+    },
+
+    "dapp": {
+        "aliases": ["decentralized application"],
+        "category": "dapp_development",
+        "weight": 8
+    },
+
+    "wallet integration": {
+        "aliases": [],
+        "category": "dapp_development",
+        "weight": 8
+    },
+
+    "metamask": {
+        "aliases": [],
+        "category": "wallet",
+        "weight": 5
+    },
+
+    "walletconnect": {
+        "aliases": [],
+        "category": "wallet",
+        "weight": 6
+
+    },
+
+    "rainbowkit": {
+        "aliases": [],
+        "category": "wallet_library",
+        "weight": 6
+    },
+
+    "wagmi": {
+        "aliases": [],
+        "category": "wallet_library",
+        "weight": 7
+    },
+
+    "react": {
+        "aliases": ["reactjs"],
+        "category": "frontend_framework",
+        "weight": 6
+    },
+
+    "next.js": {
+        "aliases": ["nextjs"],
+        "category": "frontend_framework",
+        "weight": 6
+    },
+
+    "tailwind css": {
+        "aliases": ["tailwind"],
+        "category": "frontend",
+        "weight": 3
+    },
+
+    "defi": {
+        "aliases": ["decentralized finance"],
+        "category": "blockchain_application",
+        "weight": 9
+    },
+
+    "dex": {
+        "aliases": ["decentralized exchange"],
+        "category": "defi",
+        "weight": 8
+    },
+
+    "amm": {
+        "aliases": ["automated market maker"],
+        "category": "defi",
+        "weight": 8
+    },
+
+    "yield farming": {
+        "aliases": [],
+        "category": "defi",
+        "weight": 7
+    },
+
+    "staking": {
+        "aliases": [],
+        "category": "defi",
+        "weight": 8
+    },
+
+    "liquidity pools": {
+        "aliases": [],
+        "category": "defi",
+        "weight": 8
+    },
+
+    "flash loans": {
+        "aliases": [],
+        "category": "defi",
+        "weight": 8
+    },
+
+    "uniswap": {
+        "aliases": [],
+        "category": "defi_protocol",
+        "weight": 8
+    },
+
+    "aave": {
+        "aliases": [],
+        "category": "defi_protocol",
+        "weight": 8
+    },
+
+    "compound": {
+        "aliases": [],
+        "category": "defi_protocol",
+        "weight": 7
+    },
+
+    "curve finance": {
+        "aliases": ["curve"],
+        "category": "defi_protocol",
+        "weight": 8
+    },
+
+    "nft": {
+        "aliases": ["non fungible token"],
+        "category": "blockchain_application",
+        "weight": 6
+    },
+
+    "erc20": {
+        "aliases": [],
+        "category": "token_standard",
+        "weight": 8
+    },
+
+    "erc721": {
+        "aliases": [],
+        "category": "token_standard",
+        "weight": 8
+    },
+
+    "erc1155": {
+        "aliases": [],
+        "category": "token_standard",
+        "weight": 8
+    },
+
+    "tokenomics": {
+        "aliases": [],
+        "category": "token_design",
+        "weight": 9
+    },
+
+    "minting": {
+        "aliases": [],
+        "category": "nft",
+        "weight": 5
+    },
+
+    "opensea": {
+        "aliases": [],
+        "category": "nft_platform",
+        "weight": 4
+    },
+
+    "smart contract auditing": {
+        "aliases": ["contract auditing"],
+        "category": "security",
+        "weight": 10
+    },
+
+    "reentrancy attack": {
+        "aliases": [],
+        "category": "smart_contract_security",
+        "weight": 9
+    },
+
+    "integer overflow": {
+        "aliases": [],
+        "category": "smart_contract_security",
+        "weight": 8
+    },
+
+    "front running": {
+        "aliases": [],
+        "category": "smart_contract_security",
+        "weight": 8
+    },
+
+    "slither": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 8
+    },
+
+    "mythril": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 8
+    },
+
+    "echidna": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 8
+    },
+
+    "ipfs": {
+        "aliases": [],
+        "category": "decentralized_storage",
+        "weight": 7
+    },
+
+    "filecoin": {
+        "aliases": [],
+        "category": "decentralized_storage",
+        "weight": 7
+    },
+
+    "arweave": {
+        "aliases": [],
+        "category": "decentralized_storage",
+        "weight": 7
+    },
+
+    "the graph": {
+        "aliases": [],
+        "category": "indexing_protocol",
+        "weight": 7
+    },
+
+    "subgraph": {
+        "aliases": [],
+        "category": "indexing_protocol",
+        "weight": 7
+    },
+
+    "alchemy": {
+        "aliases": [],
+        "category": "blockchain_infra",
+        "weight": 7
+    },
+
+    "infura": {
+        "aliases": [],
+        "category": "blockchain_infra",
+        "weight": 7
+    },
+
+    "quicknode": {
+        "aliases": [],
+        "category": "blockchain_infra",
+        "weight": 7
+    },
+
+    "chai": {
+        "aliases": [],
+        "category": "testing",
+        "weight": 3
+    },
+
+    "mocha": {
+        "aliases": [],
+        "category": "testing",
+        "weight": 3
+    },
+
+    "jest": {
+        "aliases": [],
+        "category": "testing",
+        "weight": 3
+    },
+
+    "docker": {
+        "aliases": [],
+        "category": "containerization",
+        "weight": 6
+    },
+
+    "kubernetes": {
+        "aliases": ["k8s"],
+        "category": "orchestration",
+        "weight": 6
+    },
+
+    "ci/cd": {
+        "aliases": [
+            "continuous integration",
+            "continuous deployment"
+        ],
+        "category": "devops",
+        "weight": 6
+    },
+
+    "github actions": {
+        "aliases": [],
+        "category": "devops",
+        "weight": 5
+    },
+
+    "postgresql": {
+        "aliases": ["postgres"],
+        "category": "database",
+        "weight": 6
+    },
+
+    "mongodb": {
+        "aliases": ["mongo"],
+        "category": "database",
+        "weight": 6
+    },
+
+    "redis": {
+        "aliases": [],
+        "category": "database",
+        "weight": 6
+    },
+
+    "firebase": {
+        "aliases": [],
+        "category": "backend_service",
+        "weight": 3
+    },
+
+    "node.js": {
+        "aliases": ["nodejs", "node"],
+        "category": "backend_runtime",
+        "weight": 6
+    },
+
+    "express": {
+        "aliases": ["expressjs"],
+        "category": "backend_framework",
+        "weight": 5
+    },
+
+    "nestjs": {
+        "aliases": [],
+        "category": "backend_framework",
+        "weight": 6
+    },
+
+    "graphql": {
+        "aliases": [],
+        "category": "api_technology",
+        "weight": 6
+    },
+
+    "grpc": {
+        "aliases": [],
+        "category": "api_technology",
+        "weight": 6
+    },
+
+    "rest api": {
+        "aliases": ["restful api"],
+        "category": "api_technology",
+        "weight": 5
+    },
+
+    "git": {
+        "aliases": [],
+        "category": "version_control",
+        "weight": 4
+    },
+
+    "github": {
+        "aliases": [],
+        "category": "version_control",
+        "weight": 4
+    },
+
+    "gitlab": {
+        "aliases": [],
+        "category": "version_control",
+        "weight": 3
+    },
+
+    "vscode": {
+        "aliases": ["visual studio code"],
+        "category": "ide",
+        "weight": 1
+    },
+
+    "linux": {
+        "aliases": ["ubuntu"],
+        "category": "operating_system",
+        "weight": 5
+    },
+
+    "bash": {
+        "aliases": ["shell scripting", "sh"],
+        "category": "scripting",
+        "weight": 5
+    },
+
+    "dao": {
+        "aliases": ["decentralized autonomous organization"],
+        "category": "blockchain_application",
+        "weight": 7
+    },
+
+    "gamefi": {
+        "aliases": [],
+        "category": "blockchain_application",
+        "weight": 6
+    },
+
+    "socialfi": {
+        "aliases": [],
+        "category": "blockchain_application",
+        "weight": 5
+    },
+
+    "real world assets": {
+        "aliases": ["rwa"],
+        "category": "blockchain_application",
+        "weight": 8
+    },
+
+    "cross chain bridges": {
+        "aliases": [],
+        "category": "interoperability",
+        "weight": 10
+    },
+
+    "cross chain interoperability": {
+        "aliases": [],
+        "category": "interoperability",
+        "weight": 10
+    }
+}

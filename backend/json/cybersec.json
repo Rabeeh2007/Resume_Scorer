@@ -1,0 +1,866 @@
+{
+    "python": {
+        "aliases": ["py"],
+        "category": "programming_language",
+        "weight": 7
+    },
+
+    "bash": {
+        "aliases": ["shell scripting", "sh"],
+        "category": "scripting",
+        "weight": 7
+    },
+
+    "powershell": {
+        "aliases": ["ps"],
+        "category": "scripting",
+        "weight": 7
+    },
+
+    "javascript": {
+        "aliases": ["js"],
+        "category": "programming_language",
+        "weight": 5
+    },
+
+    "c": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 5
+    },
+
+    "c++": {
+        "aliases": ["cpp"],
+        "category": "programming_language",
+        "weight": 5
+    },
+
+    "java": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 5
+    },
+
+    "go": {
+        "aliases": ["golang"],
+        "category": "programming_language",
+        "weight": 7
+    },
+
+    "rust": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 7
+    },
+
+    "php": {
+        "aliases": [],
+        "category": "programming_language",
+        "weight": 5
+    },
+
+    "sql": {
+        "aliases": [],
+        "category": "query_language",
+        "weight": 5
+    },
+
+    "cybersecurity": {
+        "aliases": [
+            "cyber security",
+            "information security",
+            "infosec"
+        ],
+        "category": "core_security",
+        "weight": 6
+    },
+
+    "network security": {
+        "aliases": [],
+        "category": "core_security",
+        "weight": 7
+    },
+
+    "application security": {
+        "aliases": ["appsec"],
+        "category": "core_security",
+        "weight": 9
+    },
+
+    "cloud security": {
+        "aliases": [],
+        "category": "core_security",
+        "weight": 10
+    },
+
+    "endpoint security": {
+        "aliases": [],
+        "category": "core_security",
+        "weight": 7
+    },
+
+    "identity and access management": {
+        "aliases": ["iam"],
+        "category": "core_security",
+        "weight": 7
+    },
+
+    "zero trust": {
+        "aliases": [],
+        "category": "security_architecture",
+        "weight": 9
+    },
+
+    "security operations": {
+        "aliases": ["secops"],
+        "category": "security_operations",
+        "weight": 8
+    },
+
+    "security engineering": {
+        "aliases": [],
+        "category": "security_engineering",
+        "weight": 9
+    },
+
+    "security architecture": {
+        "aliases": [],
+        "category": "security_architecture",
+        "weight": 10
+    },
+
+    "penetration testing": {
+        "aliases": ["pentesting", "pen testing"],
+        "category": "offensive_security",
+        "weight": 9
+    },
+
+    "ethical hacking": {
+        "aliases": [],
+        "category": "offensive_security",
+        "weight": 8
+
+    },
+
+    "red teaming": {
+        "aliases": [],
+        "category": "offensive_security",
+        "weight": 10
+    },
+
+    "bug bounty": {
+        "aliases": [],
+        "category": "offensive_security",
+        "weight": 7
+    },
+
+    "vulnerability assessment": {
+        "aliases": ["va"],
+        "category": "offensive_security",
+        "weight": 7
+    },
+
+    "exploit development": {
+        "aliases": [],
+        "category": "offensive_security",
+        "weight": 10
+    },
+
+    "reverse engineering": {
+        "aliases": [],
+        "category": "offensive_security",
+        "weight": 10
+    },
+
+    "social engineering": {
+        "aliases": [],
+        "category": "offensive_security",
+        "weight": 7
+    },
+
+    "privilege escalation": {
+        "aliases": ["privesc"],
+        "category": "offensive_security",
+        "weight": 8
+    },
+
+    "post exploitation": {
+        "aliases": [],
+        "category": "offensive_security",
+        "weight": 8
+    },
+
+    "lateral movement": {
+        "aliases": [],
+        "category": "offensive_security",
+        "weight": 8
+    },
+
+    "web security": {
+        "aliases": [],
+        "category": "web_security",
+        "weight": 6
+    },
+
+    "owasp": {
+        "aliases": ["owasp top 10"],
+        "category": "web_security",
+        "weight": 8
+    },
+
+    "sql injection": {
+        "aliases": ["sqli"],
+        "category": "web_vulnerability",
+        "weight": 8
+    },
+
+    "cross site scripting": {
+        "aliases": ["xss"],
+        "category": "web_vulnerability",
+        "weight": 8
+    },
+
+    "cross site request forgery": {
+        "aliases": ["csrf"],
+        "category": "web_vulnerability",
+        "weight": 7
+    },
+
+    "server side request forgery": {
+        "aliases": ["ssrf"],
+        "category": "web_vulnerability",
+        "weight": 8
+    },
+
+    "remote code execution": {
+        "aliases": ["rce"],
+        "category": "web_vulnerability",
+        "weight": 8
+    },
+
+    "xml external entity": {
+        "aliases": ["xxe"],
+        "category": "web_vulnerability",
+        "weight": 7
+    },
+
+    "insecure direct object references": {
+        "aliases": ["idor"],
+        "category": "web_vulnerability",
+        "weight": 8
+    },
+
+    "command injection": {
+        "aliases": [],
+        "category": "web_vulnerability",
+        "weight": 8
+    },
+
+    "file inclusion": {
+        "aliases": [
+            "lfi",
+            "rfi",
+            "local file inclusion",
+            "remote file inclusion"
+        ],
+        "category": "web_vulnerability",
+        "weight": 7
+    },
+
+    "deserialization attacks": {
+        "aliases": [],
+        "category": "web_vulnerability",
+        "weight": 9
+    },
+
+    "authentication bypass": {
+        "aliases": [],
+        "category": "web_vulnerability",
+        "weight": 8
+    },
+
+    "session hijacking": {
+        "aliases": [],
+        "category": "web_vulnerability",
+        "weight": 7
+    },
+
+    "tcp/ip": {
+        "aliases": [],
+        "category": "networking",
+        "weight": 6
+    },
+
+    "dns": {
+        "aliases": ["domain name system"],
+        "category": "networking",
+        "weight": 6
+    },
+
+    "http": {
+        "aliases": [],
+        "category": "networking",
+        "weight": 5
+
+    },
+
+    "https": {
+        "aliases": [],
+        "category": "networking",
+        "weight": 5
+
+    },
+
+    "ssl/tls": {
+        "aliases": ["tls", "ssl"],
+        "category": "network_security",
+        "weight": 7
+    },
+
+    "vpn": {
+        "aliases": ["virtual private network"],
+        "category": "network_security",
+        "weight": 6
+    },
+
+    "firewalls": {
+        "aliases": [],
+        "category": "network_security",
+        "weight": 6
+    },
+
+    "proxy": {
+        "aliases": ["proxy server"],
+        "category": "network_security",
+        "weight": 6
+    },
+
+    "packet analysis": {
+        "aliases": [],
+        "category": "network_security",
+        "weight": 6
+    },
+
+    "network sniffing": {
+        "aliases": [],
+        "category": "network_security",
+        "weight": 7
+    },
+
+    "port scanning": {
+        "aliases": [],
+        "category": "network_security",
+        "weight": 6
+    },
+
+    "digital forensics": {
+        "aliases": [],
+        "category": "forensics",
+        "weight": 8
+    },
+
+    "incident response": {
+        "aliases": ["ir"],
+        "category": "incident_response",
+        "weight": 9
+    },
+
+    "malware analysis": {
+        "aliases": [],
+        "category": "malware_security",
+        "weight": 10
+    },
+
+    "memory forensics": {
+        "aliases": [],
+        "category": "forensics",
+        "weight": 9
+    },
+
+    "disk forensics": {
+        "aliases": [],
+        "category": "forensics",
+        "weight": 8
+    },
+
+    "log analysis": {
+        "aliases": [],
+        "category": "security_operations",
+        "weight": 6
+    },
+
+    "threat hunting": {
+        "aliases": [],
+        "category": "security_operations",
+        "weight": 9
+    },
+
+    "ioc analysis": {
+        "aliases": ["indicator of compromise"],
+        "category": "incident_response",
+        "weight": 8
+    },
+
+    "malware": {
+        "aliases": [],
+        "category": "malware_security",
+        "weight": 7
+    },
+
+    "ransomware": {
+        "aliases": [],
+        "category": "malware_security",
+        "weight": 8
+    },
+
+    "trojan": {
+        "aliases": [],
+        "category": "malware_security",
+        "weight": 7
+    },
+
+    "rootkit": {
+        "aliases": [],
+        "category": "malware_security",
+        "weight": 9
+    },
+
+    "buffer overflow": {
+        "aliases": [],
+        "category": "binary_exploitation",
+        "weight": 9
+    },
+
+    "binary exploitation": {
+        "aliases": ["binexp"],
+        "category": "binary_exploitation",
+        "weight": 10
+    },
+
+    "shellcode": {
+        "aliases": [],
+        "category": "binary_exploitation",
+        "weight": 10
+    },
+
+    "return oriented programming": {
+        "aliases": ["rop"],
+        "category": "binary_exploitation",
+        "weight": 10
+    },
+
+    "aws": {
+        "aliases": ["amazon web services"],
+        "category": "cloud",
+        "weight": 6
+    },
+
+    "azure": {
+        "aliases": ["microsoft azure"],
+        "category": "cloud",
+        "weight": 6
+    },
+
+    "gcp": {
+        "aliases": ["google cloud platform"],
+        "category": "cloud",
+        "weight": 6
+    },
+
+    "aws security": {
+        "aliases": [],
+        "category": "cloud_security",
+        "weight": 9
+    },
+
+    "azure security": {
+        "aliases": [],
+        "category": "cloud_security",
+        "weight": 9
+    },
+
+    "container security": {
+        "aliases": [],
+        "category": "cloud_security",
+        "weight": 9
+    },
+
+    "docker": {
+        "aliases": [],
+        "category": "containerization",
+        "weight": 7
+    },
+
+    "kubernetes": {
+        "aliases": ["k8s"],
+        "category": "orchestration",
+        "weight": 8
+    },
+
+    "wireshark": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 8
+    },
+
+    "nmap": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 8
+    },
+
+    "metasploit": {
+        "aliases": ["msf"],
+        "category": "security_tool",
+        "weight": 8
+    },
+
+    "burp suite": {
+        "aliases": ["burpsuite", "burp"],
+        "category": "security_tool",
+        "weight": 8
+    },
+
+    "nikto": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 5
+    },
+
+    "sqlmap": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 7
+    },
+
+    "hydra": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 6
+    },
+
+    "john the ripper": {
+        "aliases": ["jtr"],
+        "category": "security_tool",
+        "weight": 6
+    },
+
+    "aircrack-ng": {
+        "aliases": [],
+        "category": "wireless_security",
+        "weight": 7
+    },
+
+    "gobuster": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 5
+    },
+
+    "ffuf": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 6
+    },
+
+    "dirbuster": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 5
+    },
+
+    "hashcat": {
+        "aliases": [],
+        "category": "password_security",
+        "weight": 6
+    },
+
+    "volatility": {
+        "aliases": [],
+        "category": "forensics_tool",
+        "weight": 8
+    },
+
+    "autopsy": {
+        "aliases": [],
+        "category": "forensics_tool",
+        "weight": 7
+    },
+
+    "snort": {
+        "aliases": [],
+        "category": "ids_ips",
+        "weight": 8
+    },
+
+    "suricata": {
+        "aliases": [],
+        "category": "ids_ips",
+        "weight": 8
+    },
+
+    "splunk": {
+        "aliases": [],
+        "category": "siem",
+        "weight": 8
+    },
+
+    "elk stack": {
+        "aliases": [
+            "elasticsearch logstash kibana",
+            "elastic stack"
+
+        ],
+        "category": "siem",
+        "weight": 8
+    },
+
+    "wazuh": {
+        "aliases": [],
+        "category": "siem",
+        "weight": 7
+    },
+
+    "osquery": {
+        "aliases": [],
+        "category": "security_tool",
+        "weight": 7
+    },
+
+    "authentication": {
+        "aliases": ["auth"],
+        "category": "security",
+        "weight": 7
+    },
+
+    "authorization": {
+        "aliases": [],
+        "category": "security",
+        "weight": 7
+    },
+
+    "jwt": {
+        "aliases": ["json web token"],
+        "category": "security",
+        "weight": 7
+    },
+
+    "oauth": {
+        "aliases": ["oauth2"],
+        "category": "security",
+        "weight": 7
+    },
+
+    "encryption": {
+        "aliases": [],
+        "category": "cryptography",
+        "weight": 7
+    },
+
+    "aes": {
+        "aliases": ["advanced encryption standard"],
+        "category": "cryptography",
+        "weight": 7
+    },
+
+    "rsa": {
+        "aliases": [],
+        "category": "cryptography",
+        "weight": 7
+    },
+
+    "sha256": {
+        "aliases": ["sha-256"],
+        "category": "cryptography",
+        "weight": 6
+    },
+
+    "md5": {
+        "aliases": [],
+        "category": "cryptography",
+        "weight": 4
+    },
+
+    "bcrypt": {
+        "aliases": [],
+        "category": "cryptography",
+        "weight": 7
+    },
+
+    "linux": {
+        "aliases": ["ubuntu"],
+        "category": "operating_system",
+        "weight": 7
+    },
+
+    "kali linux": {
+        "aliases": ["kali"],
+        "category": "security_os",
+        "weight": 7
+    },
+
+    "parrot os": {
+        "aliases": [],
+        "category": "security_os",
+        "weight": 5
+    },
+
+    "windows": {
+        "aliases": [],
+        "category": "operating_system",
+        "weight": 3
+    },
+
+    "active directory": {
+        "aliases": ["ad"],
+        "category": "windows_security",
+        "weight": 9
+    },
+
+    "nginx": {
+        "aliases": [],
+        "category": "web_server",
+        "weight": 5
+    },
+
+    "apache": {
+        "aliases": ["apache server"],
+        "category": "web_server",
+        "weight": 5
+    },
+
+    "jenkins": {
+        "aliases": [],
+        "category": "devops",
+        "weight": 6
+    },
+
+    "terraform": {
+        "aliases": [],
+        "category": "infrastructure_as_code",
+        "weight": 8
+    },
+
+    "ansible": {
+        "aliases": [],
+        "category": "automation",
+        "weight": 6
+    },
+
+    "ci/cd": {
+        "aliases": [
+            "continuous integration",
+            "continuous deployment"
+        ],
+        "category": "devops",
+        "weight": 6
+    },
+
+    "iso 27001": {
+        "aliases": [],
+        "category": "compliance",
+        "weight": 4
+    },
+
+    "soc2": {
+        "aliases": ["soc 2"],
+        "category": "compliance",
+        "weight": 4
+    },
+
+    "gdpr": {
+        "aliases": [],
+        "category": "compliance",
+        "weight": 3
+    },
+
+    "hipaa": {
+        "aliases": [],
+        "category": "compliance",
+        "weight": 3
+    },
+
+    "nist": {
+        "aliases": [],
+        "category": "security_framework",
+        "weight": 8
+    },
+
+    "mitre att&ck": {
+        "aliases": ["mitre attack"],
+        "category": "security_framework",
+        "weight": 9
+    },
+
+    "git": {
+        "aliases": [],
+        "category": "version_control",
+        "weight": 4
+    },
+
+    "github": {
+        "aliases": [],
+        "category": "version_control",
+        "weight": 3
+    },
+
+    "gitlab": {
+        "aliases": [],
+        "category": "version_control",
+        "weight": 3
+    },
+
+    "vscode": {
+        "aliases": ["visual studio code"],
+        "category": "ide",
+        "weight": 2
+    },
+
+    "vmware": {
+        "aliases": [],
+        "category": "virtualization",
+        "weight": 3
+    },
+
+    "virtualbox": {
+        "aliases": [],
+        "category": "virtualization",
+        "weight": 3
+    },
+
+    "threat modeling": {
+        "aliases": [],
+        "category": "security_concept",
+        "weight": 9
+    },
+
+    "attack surface": {
+        "aliases": [],
+        "category": "security_concept",
+        "weight": 8
+    },
+
+    "defense in depth": {
+        "aliases": [],
+        "category": "security_concept",
+        "weight": 8
+    },
+
+    "security hardening": {
+        "aliases": [],
+        "category": "security_concept",
+        "weight": 8
+    },
+
+    "risk assessment": {
+        "aliases": [],
+        "category": "security_concept",
+        "weight": 7
+    },
+
+    "security auditing": {
+        "aliases": [],
+        "category": "security_concept",
+        "weight": 7
+    }
+}

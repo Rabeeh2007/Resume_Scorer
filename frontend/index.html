@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Resume Scorer</h1>
+        <p class="subtitle">Upload a resume and select a domain to get a score</p>
+
+        <div class="card">
+            <div class="upload-area" id="uploadArea">
+                <input type="file" id="pdfInput" accept=".pdf" hidden>
+                <div class="upload-icon">📄</div>
+                <p>Drag & drop PDF or <span class="link" onclick="document.getElementById('pdfInput').click()">browse</span></p>
+                <p class="file-name" id="fileName">No file chosen</p>
+            </div>
+
+            <div class="field">
+                <label for="domainSelect">Domain</label>
+                <select id="domainSelect">
+                    <option value="">-- Select Domain --</option>
+                    <option>Cybersecurity</option>
+                    <option>Software Engineering</option>
+                    <option>Machine Learning</option>
+                    <option>Data Science</option>
+                    <option>Blockchain</option>
+                </select>
+            </div>
+            <button id="submitBtn" onclick="submitResume()">Analyse Resume</button>
+            <p class="error" id="errorMsg"></p>
+        </div>
+        <div class="card result-card" id="resultCard" style="display: none">
+            <h2>Result</h2>
+        </div>
+
+
+    </div>
+
+</body>
+</html>

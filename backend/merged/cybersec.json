@@ -1,0 +1,583 @@
+{
+  "python": 7,
+  "bash": 7,
+  "powershell": 7,
+  "javascript": 5,
+  "c": 5,
+  "c++": 5,
+  "java": 5,
+  "go": 7,
+  "rust": 7,
+  "php": 5,
+  "sql": 5,
+  "cybersecurity": 6,
+  "network security": 7,
+  "application security": 9,
+  "cloud security": 10,
+  "endpoint security": 7,
+  "identity and access management": 7,
+  "zero trust": 9,
+  "security operations": 8,
+  "security engineering": 9,
+  "security architecture": 10,
+  "penetration testing": 9,
+  "ethical hacking": 8,
+  "red teaming": 10,
+  "bug bounty": 7,
+  "vulnerability assessment": 7,
+  "exploit development": 10,
+  "reverse engineering": 10,
+  "social engineering": 7,
+  "privilege escalation": 8,
+  "post exploitation": 8,
+  "lateral movement": 8,
+  "web security": 6,
+  "owasp": 8,
+  "sql injection": 8,
+  "cross site scripting": 8,
+  "cross site request forgery": 7,
+  "server side request forgery": 8,
+  "remote code execution": 8,
+  "xml external entity": 7,
+  "insecure direct object references": 8,
+  "command injection": 8,
+  "file inclusion": 7,
+  "deserialization attacks": 9,
+  "authentication bypass": 8,
+  "session hijacking": 7,
+  "tcp/ip": 6,
+  "dns": 6,
+  "http": 5,
+  "https": 5,
+  "ssl/tls": 7,
+  "vpn": 6,
+  "firewalls": 6,
+  "proxy": 6,
+  "packet analysis": 6,
+  "network sniffing": 7,
+  "port scanning": 6,
+  "digital forensics": 8,
+  "incident response": 9,
+  "malware analysis": 10,
+  "memory forensics": 9,
+  "disk forensics": 8,
+  "log analysis": 6,
+  "threat hunting": 9,
+  "ioc analysis": 8,
+  "malware": 7,
+  "ransomware": 8,
+  "trojan": 7,
+  "rootkit": 9,
+  "buffer overflow": 9,
+  "binary exploitation": 10,
+  "shellcode": 10,
+  "return oriented programming": 10,
+  "aws": 6,
+  "azure": 6,
+  "gcp": 6,
+  "aws security": 9,
+  "azure security": 9,
+  "container security": 9,
+  "docker": 7,
+  "kubernetes": 8,
+  "wireshark": 8,
+  "nmap": 8,
+  "metasploit": 8,
+  "burp suite": 8,
+  "nikto": 5,
+  "sqlmap": 7,
+  "hydra": 6,
+  "john the ripper": 6,
+  "aircrack-ng": 7,
+  "gobuster": 5,
+  "ffuf": 6,
+  "dirbuster": 5,
+  "hashcat": 6,
+  "volatility": 8,
+  "autopsy": 7,
+  "snort": 8,
+  "suricata": 8,
+  "splunk": 8,
+  "elk stack": 8,
+  "wazuh": 7,
+  "osquery": 7,
+  "authentication": 7,
+  "authorization": 7,
+  "jwt": 7,
+  "oauth": 7,
+  "encryption": 7,
+  "aes": 7,
+  "rsa": 7,
+  "sha256": 6,
+  "md5": 4,
+  "bcrypt": 7,
+  "linux": 7,
+  "kali linux": 7,
+  "parrot os": 5,
+  "windows": 3,
+  "active directory": 9,
+  "nginx": 5,
+  "apache": 5,
+  "jenkins": 6,
+  "terraform": 8,
+  "ansible": 6,
+  "ci/cd": 6,
+  "iso 27001": 4,
+  "soc2": 4,
+  "gdpr": 3,
+  "hipaa": 3,
+  "nist": 8,
+  "mitre att&ck": 9,
+  "git": 4,
+  "github": 3,
+  "gitlab": 3,
+  "vscode": 2,
+  "vmware": 3,
+  "virtualbox": 3,
+  "threat modeling": 9,
+  "attack surface": 8,
+  "defense in depth": 8,
+  "security hardening": 8,
+  "risk assessment": 7,
+  "security auditing": 7,
+  "py": "python",
+  "ps": "powershell",
+  "js": "javascript",
+  "iam": "identity and access management",
+  "va": "vulnerability assessment",
+  "sqli": "sql injection",
+  "xss": "cross site scripting",
+  "csrf": "cross site request forgery",
+  "ssrf": "server side request forgery",
+  "rce": "remote code execution",
+  "xxe": "xml external entity",
+  "idor": "insecure direct object references",
+  "lfi": "file inclusion",
+  "rfi": "file inclusion",
+  "tls": "ssl/tls",
+  "ssl": "ssl/tls",
+  "ir": "incident response",
+  "rop": "return oriented programming",
+  "k8s": "kubernetes",
+  "msf": "metasploit",
+  "burp": "burp suite",
+  "jtr": "john the ripper",
+  "auth": "authentication",
+  "kali": "kali linux",
+  "ad": "active directory",
+  "offensive security certified professional": {
+    "tier": 5,
+    "provider": "offensive security",
+    "aliases": [
+      "oscp",
+      "offsec certified professional",
+      "offensive security oscp"
+    ]
+  },
+  "offensive security experienced penetration tester": {
+    "tier": 5,
+    "provider": "offensive security",
+    "aliases": [
+      "osep",
+      "offsec experienced pentester"
+    ]
+  },
+  "offensive security web expert": {
+    "tier": 5,
+    "provider": "offensive security",
+    "aliases": [
+      "oswe",
+      "offsec web expert"
+    ]
+  },
+  "offensive security exploitation expert": {
+    "tier": 5,
+    "provider": "offensive security",
+    "aliases": [
+      "osexp",
+      "offsec exploitation expert"
+    ]
+  },
+  "offensive security wireless professional": {
+    "tier": 4,
+    "provider": "offensive security",
+    "aliases": [
+      "oswp",
+      "offsec wireless"
+    ]
+  },
+  "certified ethical hacker": {
+    "tier": 4,
+    "provider": "ec council",
+    "aliases": [
+      "ceh",
+      "ethical hacker certification"
+    ]
+  },
+  "licensed penetration tester": {
+    "tier": 4,
+    "provider": "ec council",
+    "aliases": [
+      "lpt",
+      "licensed pentester"
+    ]
+  },
+  "certified network defender": {
+    "tier": 3,
+    "provider": "ec council",
+    "aliases": [
+      "cnd",
+      "network defender certification"
+    ]
+  },
+  "certified soc analyst": {
+    "tier": 3,
+    "provider": "ec council",
+    "aliases": [
+      "csa",
+      "soc analyst certification"
+    ]
+  },
+  "computer hacking forensic investigator": {
+    "tier": 4,
+    "provider": "ec council",
+    "aliases": [
+      "chfi",
+      "forensics investigator certification"
+    ]
+  },
+  "comptia security plus": {
+    "tier": 4,
+    "provider": "comptia",
+    "aliases": [
+      "security+",
+      "sec+"
+    ]
+  },
+  "comptia pentest plus": {
+    "tier": 4,
+    "provider": "comptia",
+    "aliases": [
+      "pentest+",
+      "comptia pentest"
+    ]
+  },
+  "comptia cyber security analyst": {
+    "tier": 4,
+    "provider": "comptia",
+    "aliases": [
+      "cysa+",
+      "cybersecurity analyst"
+    ]
+  },
+  "comptia advanced security practitioner": {
+    "tier": 5,
+    "provider": "comptia",
+    "aliases": [
+      "casp+",
+      "advanced security practitioner"
+    ]
+  },
+  "comptia network plus": {
+    "tier": 3,
+    "provider": "comptia",
+    "aliases": [
+      "network+",
+      "net+"
+    ]
+  },
+  "certified information systems security professional": {
+    "tier": 5,
+    "provider": "isc2",
+    "aliases": [
+      "cissp",
+      "isc2 cissp"
+    ]
+  },
+  "certified cloud security professional": {
+    "tier": 5,
+    "provider": "isc2",
+    "aliases": [
+      "ccsp",
+      "cloud security professional"
+    ]
+  },
+  "systems security certified practitioner": {
+    "tier": 4,
+    "provider": "isc2",
+    "aliases": [
+      "sscp",
+      "security certified practitioner"
+    ]
+  },
+  "certified in cybersecurity": {
+    "tier": 3,
+    "provider": "isc2",
+    "aliases": [
+      "cc certification",
+      "isc2 cc"
+    ]
+  },
+  "giac penetration tester": {
+    "tier": 5,
+    "provider": "sans",
+    "aliases": [
+      "gpen",
+      "giac pentester"
+    ]
+  },
+  "giac certified incident handler": {
+    "tier": 5,
+    "provider": "sans",
+    "aliases": [
+      "gcih",
+      "incident handler certification"
+    ]
+  },
+  "giac web application penetration tester": {
+    "tier": 5,
+    "provider": "sans",
+    "aliases": [
+      "gwapt",
+      "web app pentester"
+    ]
+  },
+  "giac reverse engineering malware": {
+    "tier": 5,
+    "provider": "sans",
+    "aliases": [
+      "grem",
+      "reverse engineering malware"
+    ]
+  },
+  "giac security essentials": {
+    "tier": 4,
+    "provider": "sans",
+    "aliases": [
+      "gsec",
+      "security essentials"
+    ]
+  },
+  "cisco certified cyberops associate": {
+    "tier": 4,
+    "provider": "cisco",
+    "aliases": [
+      "cyberops associate",
+      "cisco cyberops"
+    ]
+  },
+  "cisco certified network associate security": {
+    "tier": 4,
+    "provider": "cisco",
+    "aliases": [
+      "ccna security",
+      "cisco security certification"
+    ]
+  },
+  "cisco certified network professional security": {
+    "tier": 5,
+    "provider": "cisco",
+    "aliases": [
+      "ccnp security",
+      "cisco security professional"
+    ]
+  },
+  "aws certified security specialty": {
+    "tier": 5,
+    "provider": "aws",
+    "aliases": [
+      "aws security specialty",
+      "aws security cert"
+    ]
+  },
+  "microsoft certified azure security engineer associate": {
+    "tier": 5,
+    "provider": "microsoft",
+    "aliases": [
+      "azure security engineer",
+      "azure security certification"
+    ]
+  },
+  "google professional cloud security engineer": {
+    "tier": 5,
+    "provider": "google",
+    "aliases": [
+      "gcp security engineer",
+      "google cloud security"
+    ]
+  },
+  "certified application security engineer": {
+    "tier": 4,
+    "provider": "ec council",
+    "aliases": [
+      "case",
+      "application security engineer"
+    ]
+  },
+  "burp suite certified practitioner": {
+    "tier": 5,
+    "provider": "portswigger",
+    "aliases": [
+      "bscp",
+      "burp suite certification"
+    ]
+  },
+  "web application penetration testing certification": {
+    "tier": 4,
+    "provider": "web security",
+    "aliases": [
+      "web pentesting cert",
+      "web app pentesting"
+    ]
+  },
+  "certified forensic computer examiner": {
+    "tier": 4,
+    "provider": "isfce",
+    "aliases": [
+      "cfce",
+      "forensic computer examiner"
+    ]
+  },
+  "giac certified forensic analyst": {
+    "tier": 5,
+    "provider": "sans",
+    "aliases": [
+      "gcfa",
+      "forensic analyst certification"
+    ]
+  },
+  "certified red team professional": {
+    "tier": 5,
+    "provider": "altered security",
+    "aliases": [
+      "crtp",
+      "red team professional"
+    ]
+  },
+  "certified red team expert": {
+    "tier": 5,
+    "provider": "altered security",
+    "aliases": [
+      "crte",
+      "red team expert"
+    ]
+  },
+  "certified azure red team professional": {
+    "tier": 5,
+    "provider": "altered security",
+    "aliases": [
+      "cartp",
+      "azure red team"
+    ]
+  },
+  "practical ethical hacking certification": {
+    "tier": 4,
+    "provider": "tcm security",
+    "aliases": [
+      "peh",
+      "practical ethical hacking"
+    ]
+  },
+  "practical malware analysis certification": {
+    "tier": 4,
+    "provider": "tcm security",
+    "aliases": [
+      "malware analysis cert",
+      "practical malware analysis"
+    ]
+  },
+  "certified information security manager": {
+    "tier": 5,
+    "provider": "isaca",
+    "aliases": [
+      "cism",
+      "information security manager"
+    ]
+  },
+  "certified information systems auditor": {
+    "tier": 5,
+    "provider": "isaca",
+    "aliases": [
+      "cisa",
+      "systems auditor certification"
+    ]
+  },
+  "certified in risk and information systems control": {
+    "tier": 5,
+    "provider": "isaca",
+    "aliases": [
+      "crisc",
+      "risk information systems control"
+    ]
+  },
+  "google cybersecurity professional certificate": {
+    "tier": 3,
+    "provider": "google",
+    "aliases": [
+      "google cybersecurity",
+      "google cybersec cert"
+    ]
+  },
+  "ibm cybersecurity analyst professional certificate": {
+    "tier": 3,
+    "provider": "ibm",
+    "aliases": [
+      "ibm cybersecurity analyst",
+      "ibm cybersec"
+    ]
+  },
+  "coursera cybersecurity specialization": {
+    "tier": 2,
+    "provider": "coursera",
+    "aliases": [
+      "coursera cybersec",
+      "cybersecurity specialization"
+    ]
+  },
+  "udemy ethical hacking bootcamp": {
+    "tier": 1,
+    "provider": "udemy",
+    "aliases": [
+      "ethical hacking bootcamp",
+      "udemy hacking course"
+    ]
+  },
+  "edx cybersecurity fundamentals": {
+    "tier": 2,
+    "provider": "edx",
+    "aliases": [
+      "edx cybersecurity",
+      "cybersecurity fundamentals"
+    ]
+  },
+  "advanced encryption standard": "aes",
+  "virtual private network": "vpn",
+  "google cloud platform": "gcp",
+  "amazon web services": "aws",
+  "domain name system": "dns",
+  "visual studio code": "vscode",
+  "json web token": "jwt",
+  "owasp top 10": "owasp",
+  "continuous integration": "ci/cd",
+  "continuous deployment": "ci/cd",
+  "information security": "cybersecurity",
+  "shell scripting": "bash",
+  "microsoft azure": "azure",
+  "cyber security": "cybersecurity",
+  "apache server": "apache",
+  "proxy server": "proxy",
+  "soc 2": "soc2",
+  "sh": "bash",
+  "cpp": "c++",
+  "golang": "go",
+  "infosec": "cybersecurity",
+  "appsec": "application security",
+  "secops": "security operations",
+  "pentesting": "penetration testing",
+  "privesc": "privilege escalation",
+  "binexp": "binary exploitation",
+  "burpsuite": "burp suite",
+  "oauth2": "oauth",
+  "sha-256": "sha256",
+  "ubuntu": "linux"
+}

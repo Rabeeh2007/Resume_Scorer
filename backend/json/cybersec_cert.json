@@ -1,0 +1,441 @@
+{
+    "offensive security certified professional": {
+        "tier": 5,
+        "provider": "offensive security",
+        "aliases": [
+            "oscp",
+            "offsec certified professional",
+            "offensive security oscp"
+        ]
+    },
+
+    "offensive security experienced penetration tester": {
+        "tier": 5,
+        "provider": "offensive security",
+        "aliases": [
+            "osep",
+            "offsec experienced pentester"
+        ]
+    },
+
+    "offensive security web expert": {
+        "tier": 5,
+        "provider": "offensive security",
+        "aliases": [
+            "oswe",
+            "offsec web expert"
+        ]
+    },
+
+    "offensive security exploitation expert": {
+        "tier": 5,
+        "provider": "offensive security",
+        "aliases": [
+            "osexp",
+            "offsec exploitation expert"
+        ]
+    },
+
+    "offensive security wireless professional": {
+        "tier": 4,
+        "provider": "offensive security",
+        "aliases": [
+            "oswp",
+            "offsec wireless"
+        ]
+    },
+
+
+    "certified ethical hacker": {
+        "tier": 4,
+        "provider": "ec council",
+        "aliases": [
+            "ceh",
+            "ethical hacker certification"
+        ]
+    },
+
+    "licensed penetration tester": {
+        "tier": 4,
+        "provider": "ec council",
+        "aliases": [
+            "lpt",
+            "licensed pentester"
+        ]
+    },
+
+    "certified network defender": {
+        "tier": 3,
+        "provider": "ec council",
+        "aliases": [
+            "cnd",
+            "network defender certification"
+        ]
+    },
+
+    "certified soc analyst": {
+        "tier": 3,
+        "provider": "ec council",
+        "aliases": [
+            "csa",
+            "soc analyst certification"
+        ]
+    },
+
+    "computer hacking forensic investigator": {
+        "tier": 4,
+        "provider": "ec council",
+        "aliases": [
+            "chfi",
+            "forensics investigator certification"
+        ]
+    },
+
+    "comptia security plus": {
+        "tier": 4,
+        "provider": "comptia",
+        "aliases": [
+            "security+",
+            "sec+"
+        ]
+    },
+
+    "comptia pentest plus": {
+        "tier": 4,
+        "provider": "comptia",
+        "aliases": [
+            "pentest+",
+            "comptia pentest"
+        ]
+    },
+
+    "comptia cyber security analyst": {
+        "tier": 4,
+        "provider": "comptia",
+        "aliases": [
+            "cysa+",
+            "cybersecurity analyst"
+        ]
+    },
+
+    "comptia advanced security practitioner": {
+        "tier": 5,
+        "provider": "comptia",
+        "aliases": [
+            "casp+",
+            "advanced security practitioner"
+        ]
+    },
+
+    "comptia network plus": {
+        "tier": 3,
+        "provider": "comptia",
+        "aliases": [
+            "network+",
+            "net+"
+        ]
+    },
+
+    "certified information systems security professional": {
+        "tier": 5,
+        "provider": "isc2",
+        "aliases": [
+            "cissp",
+            "isc2 cissp"
+        ]
+    },
+
+    "certified cloud security professional": {
+        "tier": 5,
+        "provider": "isc2",
+        "aliases": [
+            "ccsp",
+            "cloud security professional"
+        ]
+    },
+
+    "systems security certified practitioner": {
+        "tier": 4,
+        "provider": "isc2",
+        "aliases": [
+            "sscp",
+            "security certified practitioner"
+        ]
+    },
+
+    "certified in cybersecurity": {
+        "tier": 3,
+        "provider": "isc2",
+        "aliases": [
+            "cc certification",
+            "isc2 cc"
+        ]
+    },
+
+
+    "giac penetration tester": {
+        "tier": 5,
+        "provider": "sans",
+        "aliases": [
+            "gpen",
+            "giac pentester"
+        ]
+    },
+
+    "giac certified incident handler": {
+        "tier": 5,
+        "provider": "sans",
+        "aliases": [
+            "gcih",
+            "incident handler certification"
+        ]
+    },
+
+    "giac web application penetration tester": {
+        "tier": 5,
+        "provider": "sans",
+        "aliases": [
+            "gwapt",
+            "web app pentester"
+        ]
+    },
+
+    "giac reverse engineering malware": {
+        "tier": 5,
+        "provider": "sans",
+        "aliases": [
+            "grem",
+            "reverse engineering malware"
+        ]
+    },
+
+    "giac security essentials": {
+        "tier": 4,
+        "provider": "sans",
+        "aliases": [
+            "gsec",
+            "security essentials"
+        ]
+    },
+
+
+    "cisco certified cyberops associate": {
+        "tier": 4,
+        "provider": "cisco",
+        "aliases": [
+            "cyberops associate",
+            "cisco cyberops"
+        ]
+    },
+
+    "cisco certified network associate security": {
+        "tier": 4,
+        "provider": "cisco",
+        "aliases": [
+            "ccna security",
+            "cisco security certification"
+        ]
+    },
+
+    "cisco certified network professional security": {
+        "tier": 5,
+        "provider": "cisco",
+        "aliases": [
+            "ccnp security",
+            "cisco security professional"
+        ]
+    },
+
+
+    "aws certified security specialty": {
+        "tier": 5,
+        "provider": "aws",
+        "aliases": [
+            "aws security specialty",
+            "aws security cert"
+        ]
+    },
+
+    "microsoft certified azure security engineer associate": {
+        "tier": 5,
+        "provider": "microsoft",
+        "aliases": [
+            "azure security engineer",
+            "azure security certification"
+        ]
+    },
+
+    "google professional cloud security engineer": {
+        "tier": 5,
+        "provider": "google",
+        "aliases": [
+            "gcp security engineer",
+            "google cloud security"
+        ]
+    },
+
+    "certified application security engineer": {
+        "tier": 4,
+        "provider": "ec council",
+        "aliases": [
+            "case",
+            "application security engineer"
+        ]
+    },
+
+    "burp suite certified practitioner": {
+        "tier": 5,
+        "provider": "portswigger",
+        "aliases": [
+            "bscp",
+            "burp suite certification"
+        ]
+    },
+
+    "web application penetration testing certification": {
+        "tier": 4,
+        "provider": "web security",
+        "aliases": [
+            "web pentesting cert",
+            "web app pentesting"
+        ]
+    },
+
+
+    "certified forensic computer examiner": {
+        "tier": 4,
+        "provider": "isfce",
+        "aliases": [
+            "cfce",
+            "forensic computer examiner"
+        ]
+    },
+
+    "giac certified forensic analyst": {
+        "tier": 5,
+        "provider": "sans",
+        "aliases": [
+            "gcfa",
+            "forensic analyst certification"
+        ]
+    },
+
+
+    "certified red team professional": {
+        "tier": 5,
+        "provider": "altered security",
+        "aliases": [
+            "crtp",
+            "red team professional"
+        ]
+    },
+
+    "certified red team expert": {
+        "tier": 5,
+        "provider": "altered security",
+        "aliases": [
+            "crte",
+            "red team expert"
+        ]
+    },
+
+    "certified azure red team professional": {
+        "tier": 5,
+        "provider": "altered security",
+        "aliases": [
+            "cartp",
+            "azure red team"
+        ]
+    },
+
+    "practical ethical hacking certification": {
+        "tier": 4,
+        "provider": "tcm security",
+        "aliases": [
+            "peh",
+            "practical ethical hacking"
+        ]
+    },
+
+    "practical malware analysis certification": {
+        "tier": 4,
+        "provider": "tcm security",
+        "aliases": [
+            "malware analysis cert",
+            "practical malware analysis"
+        ]
+    },
+
+
+    "certified information security manager": {
+        "tier": 5,
+        "provider": "isaca",
+        "aliases": [
+            "cism",
+            "information security manager"
+        ]
+    },
+
+    "certified information systems auditor": {
+        "tier": 5,
+        "provider": "isaca",
+        "aliases": [
+            "cisa",
+            "systems auditor certification"
+        ]
+    },
+
+    "certified in risk and information systems control": {
+        "tier": 5,
+        "provider": "isaca",
+        "aliases": [
+            "crisc",
+            "risk information systems control"
+        ]
+    },
+
+    "google cybersecurity professional certificate": {
+        "tier": 3,
+        "provider": "google",
+        "aliases": [
+            "google cybersecurity",
+            "google cybersec cert"
+        ]
+    },
+
+    "ibm cybersecurity analyst professional certificate": {
+        "tier": 3,
+        "provider": "ibm",
+        "aliases": [
+            "ibm cybersecurity analyst",
+            "ibm cybersec"
+        ]
+    },
+
+    "coursera cybersecurity specialization": {
+        "tier": 2,
+        "provider": "coursera",
+        "aliases": [
+            "coursera cybersec",
+            "cybersecurity specialization"
+        ]
+    },
+
+    "udemy ethical hacking bootcamp": {
+        "tier": 1,
+        "provider": "udemy",
+        "aliases": [
+            "ethical hacking bootcamp",
+            "udemy hacking course"
+        ]
+    },
+
+    "edx cybersecurity fundamentals": {
+        "tier": 2,
+        "provider": "edx",
+        "aliases": [
+            "edx cybersecurity",
+            "cybersecurity fundamentals"
+        ]
+    }
+}

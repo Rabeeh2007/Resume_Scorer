@@ -1,0 +1,368 @@
+{
+
+    "consensys blockchain developer program": {
+        "tier": 5,
+        "provider": "consensys",
+        "aliases": [
+            "consensys blockchain developer",
+            "consensys ethereum developer",
+            "consensys certification"
+        ]
+    },
+
+    "consensys ethereum developer certification": {
+        "tier": 5,
+        "provider": "consensys",
+        "aliases": [
+            "ethereum developer certification",
+            "consensys ethereum cert",
+            "ethereum cert"
+        ]
+    },
+
+    "consensys smart contract developer bootcamp": {
+        "tier": 4,
+        "provider": "consensys",
+        "aliases": [
+            "smart contract bootcamp",
+            "consensys smart contract"
+        ]
+    },
+
+
+    "chainlink blockchain developer certification": {
+        "tier": 4,
+        "provider": "chainlink",
+        "aliases": [
+            "chainlink developer cert",
+            "chainlink certification"
+        ]
+    },
+
+
+    "solana developer certification": {
+        "tier": 4,
+        "provider": "solana",
+        "aliases": [
+            "solana cert",
+            "solana developer program"
+        ]
+    },
+
+    "solana rust smart contract development": {
+        "tier": 4,
+        "provider": "solana",
+        "aliases": [
+            "solana rust development",
+            "solana rust cert"
+        ]
+    },
+
+
+    "certified hyperledger fabric administrator": {
+        "tier": 5,
+        "provider": "linux foundation",
+        "aliases": [
+            "hyperledger fabric admin",
+            "chfa",
+            "fabric administrator"
+        ]
+    },
+
+    "certified hyperledger fabric developer": {
+        "tier": 5,
+        "provider": "linux foundation",
+        "aliases": [
+            "hyperledger fabric developer",
+            "chfd",
+            "fabric developer"
+        ]
+    },
+
+    "linux foundation blockchain for business": {
+        "tier": 4,
+        "provider": "linux foundation",
+        "aliases": [
+            "blockchain for business",
+            "lf blockchain"
+        ]
+    },
+
+
+    "ibm blockchain foundation developer": {
+        "tier": 4,
+        "provider": "ibm",
+        "aliases": [
+            "ibm blockchain developer",
+            "ibm blockchain cert"
+        ]
+    },
+
+    "ibm blockchain essentials": {
+        "tier": 3,
+        "provider": "ibm",
+        "aliases": [
+            "ibm blockchain basics",
+            "ibm blockchain course"
+        ]
+    },
+
+
+    "certik smart contract security certification": {
+        "tier": 5,
+        "provider": "certik",
+        "aliases": [
+            "certik smart contract security",
+            "certik auditor certification"
+        ]
+    },
+
+    "certified smart contract auditor": {
+        "tier": 5,
+        "provider": "blockchain council",
+        "aliases": [
+            "smart contract auditor",
+            "blockchain auditor certification"
+        ]
+    },
+
+
+    "certified blockchain developer": {
+        "tier": 4,
+        "provider": "blockchain council",
+        "aliases": [
+            "cbd certification",
+            "blockchain developer cert"
+        ]
+    },
+
+    "certified blockchain expert": {
+        "tier": 4,
+        "provider": "blockchain council",
+        "aliases": [
+            "cbe certification",
+            "blockchain expert certification"
+        ]
+    },
+
+    "certified solidity developer": {
+        "tier": 4,
+        "provider": "blockchain council",
+        "aliases": [
+            "solidity developer certification",
+            "solidity cert"
+        ]
+    },
+
+    "certified ethereum developer": {
+        "tier": 4,
+        "provider": "blockchain council",
+        "aliases": [
+            "ethereum developer cert",
+            "ethereum certification"
+        ]
+    },
+
+    "certified defi expert": {
+        "tier": 4,
+        "provider": "blockchain council",
+        "aliases": [
+            "defi expert certification",
+            "defi certification"
+        ]
+    },
+
+    "certified nft professional": {
+        "tier": 3,
+        "provider": "blockchain council",
+        "aliases": [
+            "nft certification",
+            "nft professional cert"
+        ]
+    },
+
+    "binance blockchain fundamentals": {
+        "tier": 3,
+        "provider": "binance",
+        "aliases": [
+            "binance blockchain",
+            "binance blockchain certification"
+        ]
+    },
+
+    "binance web3 certification": {
+        "tier": 3,
+        "provider": "binance",
+        "aliases": [
+            "binance web3",
+            "web3 certification"
+        ]
+    },
+
+
+    "coursera blockchain specialization": {
+        "tier": 3,
+        "provider": "coursera",
+        "aliases": [
+            "coursera blockchain",
+            "blockchain specialization"
+        ]
+    },
+
+    "coursera blockchain basics": {
+        "tier": 2,
+        "provider": "coursera",
+        "aliases": [
+            "blockchain basics",
+            "coursera blockchain basics"
+        ]
+    },
+
+    "edx blockchain fundamentals": {
+        "tier": 3,
+        "provider": "edx",
+        "aliases": [
+            "edx blockchain",
+            "edx blockchain fundamentals"
+        ]
+    },
+
+    "udemy ethereum and solidity developer course": {
+        "tier": 2,
+        "provider": "udemy",
+        "aliases": [
+            "ethereum solidity course",
+            "udemy solidity"
+        ]
+    },
+
+    "udemy blockchain developer bootcamp": {
+        "tier": 2,
+        "provider": "udemy",
+        "aliases": [
+            "blockchain bootcamp",
+            "udemy blockchain"
+        ]
+    },
+
+
+    "university at buffalo blockchain specialization": {
+        "tier": 4,
+        "provider": "coursera",
+        "aliases": [
+            "buffalo blockchain specialization",
+            "university buffalo blockchain"
+        ]
+    },
+
+    "uc berkeley blockchain fundamentals": {
+        "tier": 5,
+        "provider": "berkeley",
+        "aliases": [
+            "berkeley blockchain",
+            "berkeley blockchain certification"
+        ]
+    },
+
+    "mit blockchain technologies certificate": {
+        "tier": 5,
+        "provider": "mit",
+        "aliases": [
+            "mit blockchain",
+            "mit blockchain certification"
+        ]
+    },
+
+
+    "web3 developer bootcamp": {
+        "tier": 3,
+        "provider": "web3",
+        "aliases": [
+            "web3 bootcamp",
+            "web3 developer certification"
+        ]
+    },
+
+    "defi development certification": {
+        "tier": 4,
+        "provider": "web3",
+        "aliases": [
+            "defi certification",
+            "defi developer cert"
+        ]
+    },
+
+    "dao governance certification": {
+        "tier": 3,
+        "provider": "web3",
+        "aliases": [
+            "dao certification",
+            "dao governance cert"
+        ]
+    },
+
+    "nft development certification": {
+        "tier": 3,
+        "provider": "web3",
+        "aliases": [
+            "nft developer cert",
+            "nft certification"
+        ]
+    },
+
+
+    "polygon blockchain developer certification": {
+        "tier": 4,
+        "provider": "polygon",
+        "aliases": [
+            "polygon developer cert",
+            "polygon blockchain"
+        ]
+    },
+
+    "avalanche blockchain developer program": {
+        "tier": 4,
+        "provider": "avalanche",
+        "aliases": [
+            "avalanche developer cert",
+            "avalanche blockchain"
+        ]
+    },
+
+    "near protocol certified developer": {
+        "tier": 4,
+        "provider": "near",
+        "aliases": [
+            "near developer cert",
+            "near protocol certification"
+        ]
+    },
+
+
+    "cardano smart contract development certification": {
+        "tier": 4,
+        "provider": "cardano",
+        "aliases": [
+            "cardano smart contract",
+            "cardano certification"
+        ]
+    },
+
+    "rust blockchain development certification": {
+        "tier": 4,
+        "provider": "rust",
+        "aliases": [
+            "rust blockchain cert",
+            "rust smart contract development"
+        ]
+    },
+
+    "move smart contract development certification": {
+        "tier": 3,
+        "provider": "move",
+        "aliases": [
+            "move language blockchain",
+            "move smart contract cert"
+        ]
+    }
+}

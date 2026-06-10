@@ -1,0 +1,452 @@
+{
+
+    "aws certified developer associate": {
+        "tier": 5,
+        "provider": "aws",
+        "aliases": [
+            "aws developer associate",
+            "aws developer cert",
+            "dva c02"
+        ]
+    },
+
+    "aws certified solutions architect associate": {
+        "tier": 5,
+        "provider": "aws",
+        "aliases": [
+            "aws solutions architect",
+            "aws saa",
+            "solutions architect associate"
+        ]
+    },
+
+    "aws certified devops engineer professional": {
+        "tier": 5,
+        "provider": "aws",
+        "aliases": [
+            "aws devops engineer",
+            "aws devops professional"
+        ]
+    },
+
+    "aws certified cloud practitioner": {
+        "tier": 3,
+        "provider": "aws",
+        "aliases": [
+            "aws ccp",
+            "aws practitioner"
+        ]
+    },
+
+
+    "microsoft certified azure developer associate": {
+        "tier": 5,
+        "provider": "microsoft",
+        "aliases": [
+            "azure developer associate",
+            "azure developer cert",
+            "az 204"
+        ]
+    },
+
+    "microsoft certified devops engineer expert": {
+        "tier": 5,
+        "provider": "microsoft",
+        "aliases": [
+            "azure devops engineer",
+            "az 400"
+        ]
+    },
+
+    "microsoft certified azure fundamentals": {
+        "tier": 3,
+        "provider": "microsoft",
+        "aliases": [
+            "azure fundamentals",
+            "az 900"
+        ]
+    },
+
+    "microsoft power platform developer associate": {
+        "tier": 4,
+        "provider": "microsoft",
+        "aliases": [
+            "power platform developer",
+            "pl 400"
+        ]
+    },
+
+
+    "google professional cloud developer": {
+        "tier": 5,
+        "provider": "google",
+        "aliases": [
+            "gcp developer",
+            "google cloud developer"
+        ]
+    },
+
+    "google associate cloud engineer": {
+        "tier": 4,
+        "provider": "google",
+        "aliases": [
+            "associate cloud engineer",
+            "gcp associate engineer"
+        ]
+    },
+
+
+    "oracle certified professional java programmer": {
+        "tier": 5,
+        "provider": "oracle",
+        "aliases": [
+            "ocjp",
+            "oracle java certification",
+            "java programmer certification"
+        ]
+    },
+
+    "oracle certified associate java programmer": {
+        "tier": 4,
+        "provider": "oracle",
+        "aliases": [
+            "ocajp",
+            "java associate certification"
+        ]
+    },
+
+
+    "certified kubernetes administrator": {
+        "tier": 5,
+        "provider": "cncf",
+        "aliases": [
+            "cka",
+            "kubernetes administrator"
+        ]
+    },
+
+    "certified kubernetes application developer": {
+        "tier": 5,
+        "provider": "cncf",
+        "aliases": [
+            "ckad",
+            "kubernetes application developer"
+        ]
+    },
+
+    "certified kubernetes security specialist": {
+        "tier": 5,
+        "provider": "cncf",
+        "aliases": [
+            "cks",
+            "kubernetes security specialist"
+        ]
+    },
+
+    "docker certified associate": {
+        "tier": 4,
+        "provider": "docker",
+        "aliases": [
+            "dca",
+            "docker certification"
+        ]
+    },
+
+    "hashicorp terraform associate": {
+        "tier": 4,
+        "provider": "hashicorp",
+        "aliases": [
+            "terraform associate",
+            "terraform certification"
+        ]
+    },
+
+    "jenkins engineer certification": {
+        "tier": 4,
+        "provider": "jenkins",
+        "aliases": [
+            "jenkins cert",
+            "certified jenkins engineer"
+        ]
+    },
+
+
+    "red hat certified engineer": {
+        "tier": 5,
+        "provider": "red hat",
+        "aliases": [
+            "rhce",
+            "red hat engineer"
+        ]
+    },
+
+    "red hat certified system administrator": {
+        "tier": 4,
+        "provider": "red hat",
+        "aliases": [
+            "rhcsa",
+            "red hat administrator"
+        ]
+    },
+
+    "linux foundation certified system administrator": {
+        "tier": 4,
+        "provider": "linux foundation",
+        "aliases": [
+            "lfcs",
+            "linux foundation admin"
+        ]
+    },
+
+
+    "cisco certified network associate": {
+        "tier": 4,
+        "provider": "cisco",
+        "aliases": [
+            "ccna",
+            "cisco networking"
+        ]
+    },
+
+    "cisco certified network professional": {
+        "tier": 5,
+        "provider": "cisco",
+        "aliases": [
+            "ccnp",
+            "cisco network professional"
+        ]
+    },
+
+
+    "salesforce certified platform developer i": {
+        "tier": 4,
+        "provider": "salesforce",
+        "aliases": [
+            "salesforce developer",
+            "platform developer 1"
+        ]
+    },
+
+    "salesforce certified javascript developer i": {
+        "tier": 4,
+        "provider": "salesforce",
+        "aliases": [
+            "salesforce javascript developer",
+            "salesforce js cert"
+        ]
+    },
+
+
+    "certified scrum master": {
+        "tier": 4,
+        "provider": "scrum alliance",
+        "aliases": [
+            "csm",
+            "scrum master certification"
+        ]
+    },
+
+    "professional scrum master": {
+        "tier": 4,
+        "provider": "scrum.org",
+        "aliases": [
+            "psm",
+            "professional scrum certification"
+        ]
+    },
+
+    "safe scrum master": {
+        "tier": 3,
+        "provider": "scaled agile",
+        "aliases": [
+            "ssm",
+            "safe scrum certification"
+        ]
+    },
+
+    "istqb certified tester foundation level": {
+        "tier": 4,
+        "provider": "istqb",
+        "aliases": [
+            "istqb",
+            "software testing certification"
+        ]
+    },
+
+    "certified selenium tester": {
+        "tier": 3,
+        "provider": "selenium",
+        "aliases": [
+            "selenium certification",
+            "selenium tester cert"
+        ]
+    },
+
+
+    "mongodb certified developer associate": {
+        "tier": 4,
+        "provider": "mongodb",
+        "aliases": [
+            "mongodb developer",
+            "mongodb certification"
+        ]
+    },
+
+    "postgresql associate certification": {
+        "tier": 3,
+        "provider": "postgresql",
+        "aliases": [
+            "postgres certification",
+            "postgresql cert"
+        ]
+    },
+
+    "redis certified developer": {
+        "tier": 3,
+        "provider": "redis",
+        "aliases": [
+            "redis certification",
+            "redis developer cert"
+        ]
+    },
+
+
+    "meta frontend developer professional certificate": {
+        "tier": 4,
+        "provider": "meta",
+        "aliases": [
+            "meta frontend developer",
+            "frontend professional certificate"
+        ]
+    },
+
+    "meta backend developer professional certificate": {
+        "tier": 4,
+        "provider": "meta",
+        "aliases": [
+            "meta backend developer",
+            "backend professional certificate"
+        ]
+    },
+
+    "google ux design professional certificate": {
+        "tier": 3,
+        "provider": "google",
+        "aliases": [
+            "google ux design",
+            "ux design certificate"
+        ]
+    },
+
+
+    "pcap certified associate in python programming": {
+        "tier": 4,
+        "provider": "python institute",
+        "aliases": [
+            "pcap",
+            "python associate certification"
+        ]
+    },
+
+    "pcpp certified professional in python programming": {
+        "tier": 5,
+        "provider": "python institute",
+        "aliases": [
+            "pcpp",
+            "python professional certification"
+        ]
+    },
+
+
+    "coursera software engineering specialization": {
+        "tier": 3,
+        "provider": "coursera",
+        "aliases": [
+            "coursera software engineering",
+            "software engineering specialization"
+        ]
+    },
+
+    "coursera full stack development": {
+        "tier": 3,
+        "provider": "coursera",
+        "aliases": [
+            "full stack specialization",
+            "coursera full stack"
+        ]
+    },
+
+    "udemy full stack web development bootcamp": {
+        "tier": 2,
+        "provider": "udemy",
+        "aliases": [
+            "full stack bootcamp",
+            "udemy web development"
+        ]
+    },
+
+    "edx software development fundamentals": {
+        "tier": 2,
+        "provider": "edx",
+        "aliases": [
+            "software development fundamentals",
+            "edx software development"
+        ]
+    },
+
+
+    "github actions certification": {
+        "tier": 3,
+        "provider": "github",
+        "aliases": [
+            "github actions cert",
+            "github cicd certification"
+        ]
+    },
+
+    "github foundations certification": {
+        "tier": 3,
+        "provider": "github",
+        "aliases": [
+            "github foundations",
+            "github certification"
+        ]
+    },
+
+
+    "google it automation with python": {
+        "tier": 3,
+        "provider": "google",
+        "aliases": [
+            "google python automation",
+            "it automation python"
+        ]
+    },
+
+    "ibm full stack cloud developer": {
+        "tier": 3,
+        "provider": "ibm",
+        "aliases": [
+            "ibm full stack developer",
+            "ibm cloud developer"
+        ]
+    },
+
+    "freecodecamp responsive web design": {
+        "tier": 2,
+        "provider": "freecodecamp",
+        "aliases": [
+            "responsive web design",
+            "fcc web design"
+        ]
+    },
+
+    "freecodecamp javascript algorithms and data structures": {
+        "tier": 2,
+        "provider": "freecodecamp",
+        "aliases": [
+            "fcc javascript algorithms",
+            "javascript data structures"
+        ]
+    }
+}
