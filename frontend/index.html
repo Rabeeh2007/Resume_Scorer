@@ -30,17 +30,20 @@
                     <option>Blockchain</option>
                 </select>
             </div>
-            <button id="submitBtn" onclick="submitResume()">Analyse Resume</button>
+            <button type="button" id="submitBtn" onclick="submitResume()">Analyse Resume</button>
             <p class="error" id="errorMsg"></p>
         </div>
-        <div class="card result-card" id="resultCard" style="display: none">
+        <div class="card result-card" id="resultCard" style="display:none">
             <h2>Result</h2>
+            <div class="score-circle" id="scoreCircle">
+                <span id="scoreValue">0</span>
+                <small>/100</small>
+            </div>
+            <div class="details" id="detailsGrid"></div>
         </div>
-
-
     </div>
 
-<script src="js/main.js"></script>
+    <script src="js/main.js"></script>
 
 </body>
 </html>

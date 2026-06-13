@@ -12,6 +12,9 @@ import pymupdf
 from PIL import Image
 import io
 import fitz
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 nltk.download("stopwords")
@@ -50,16 +53,16 @@ def file():
     global se, se_acr, se_mul, se_uni, se_wei
     global cybersec, cybersec_acr, cybersec_mul, cybersec_uni,cybersec_wei
     global allu,deg,deg_w,ws,edu
-    q = open("json/ws.json","r")
-    r = open("json/edu.json","r")
-    al = open("json/all.json", "r")
-    d = open("json/degree.json", "r")
-    dw = open("json/degree_wei.json", "r")
-    f = open("json/blockchain.json", "r")
-    acr = open("json/blockchain_acr.json", "r")
-    mul = open("json/blockchain_mulw.json", "r")
-    uni = open("json/blockchain_uni.json", "r")
-    wei = open("json/blockchain_weight.json", "r")
+    q = open(os.path.join(BASE_DIR, "json/ws.json"),"r")
+    r = open(os.path.join(BASE_DIR, "json/edu.json"),"r")
+    al = open(os.path.join(BASE_DIR, "json/all.json"), "r")
+    d = open(os.path.join(BASE_DIR, "json/degree.json"), "r")
+    dw = open(os.path.join(BASE_DIR, "json/degree_wei.json"), "r")
+    f = open(os.path.join(BASE_DIR, "json/blockchain.json"), "r")
+    acr = open(os.path.join(BASE_DIR, "json/blockchain_acr.json"), "r")
+    mul = open(os.path.join(BASE_DIR, "json/blockchain_mulw.json"), "r")
+    uni = open(os.path.join(BASE_DIR, "json/blockchain_uni.json"), "r")
+    wei = open(os.path.join(BASE_DIR, "json/blockchain_weight.json"), "r")
     ws = json.load(q)
     edu = json.load(r)
     allu = json.load(al)
@@ -71,44 +74,44 @@ def file():
     bc_uni = json.load(uni)
     bc_wei = json.load(wei)
     f.close(); acr.close(); mul.close(); uni.close(); wei.close()
-    f = open("json/ds.json", "r")
-    acr = open("json/ds_acr.json", "r")
-    mul = open("json/ds_mulw.json", "r")
-    uni = open("json/ds_uni.json", "r")
-    wei = open("json/ds_weight.json", "r")
+    f = open(os.path.join(BASE_DIR, "json/ds.json"), "r")
+    acr = open(os.path.join(BASE_DIR, "json/ds_acr.json"), "r")
+    mul = open(os.path.join(BASE_DIR, "json/ds_mulw.json"), "r")
+    uni = open(os.path.join(BASE_DIR, "json/ds_uni.json"), "r")
+    wei = open(os.path.join(BASE_DIR, "json/ds_weight.json"), "r")
     ds = json.load(f)
     ds_acr = json.load(acr)
     ds_mul = json.load(mul)
     ds_uni = json.load(uni)
     ds_wei = json.load(wei)
     f.close(); acr.close(); mul.close(); uni.close(); wei.close()
-    f = open("json/ml.json", "r")
-    acr = open("json/ml_acr.json", "r")
-    mul = open("json/ml_mulw.json", "r")
-    uni = open("json/ml_uni.json", "r")
-    wei = open("json/ml_weight.json", "r")
+    f = open(os.path.join(BASE_DIR, "json/ml.json"), "r")
+    acr = open(os.path.join(BASE_DIR, "json/ml_acr.json"), "r")
+    mul = open(os.path.join(BASE_DIR, "json/ml_mulw.json"), "r")
+    uni = open(os.path.join(BASE_DIR, "json/ml_uni.json"), "r")
+    wei = open(os.path.join(BASE_DIR, "json/ml_weight.json"), "r")
     ml = json.load(f)
     ml_acr = json.load(acr)
     ml_mul = json.load(mul)
     ml_uni = json.load(uni)
     ml_wei = json.load(wei)
     f.close(); acr.close(); mul.close(); uni.close(); wei.close()
-    f = open("json/se.json", "r")
-    acr = open("json/se_acr.json", "r")
-    mul = open("json/se_mulw.json", "r")
-    uni = open("json/se_uni.json", "r")
-    wei = open("json/se_weight.json", "r")
+    f = open(os.path.join(BASE_DIR, "json/se.json"), "r")
+    acr = open(os.path.join(BASE_DIR, "json/se_acr.json"), "r")
+    mul = open(os.path.join(BASE_DIR, "json/se_mulw.json"), "r")
+    uni = open(os.path.join(BASE_DIR, "json/se_uni.json"), "r")
+    wei = open(os.path.join(BASE_DIR, "json/se_weight.json"), "r")
     se = json.load(f)
     se_acr = json.load(acr)
     se_mul = json.load(mul)
     se_uni = json.load(uni)
     se_wei = json.load(wei)
     f.close(); acr.close(); mul.close(); uni.close(); wei.close()
-    f = open("json/cybersec.json", "r")
-    acr = open("json/cybersec_acr.json", "r")
-    mul = open("json/cybersec_mulw.json", "r")
-    uni = open("json/cybersec_uni.json", "r")
-    wei = open("json/cybersec_weight.json", "r")
+    f = open(os.path.join(BASE_DIR, "json/cybersec.json"), "r")
+    acr = open(os.path.join(BASE_DIR, "json/cybersec_acr.json"), "r")
+    mul = open(os.path.join(BASE_DIR, "json/cybersec_mulw.json"), "r")
+    uni = open(os.path.join(BASE_DIR, "json/cybersec_uni.json"), "r")
+    wei = open(os.path.join(BASE_DIR, "json/cybersec_weight.json"), "r")
     cybersec = json.load(f)
     cybersec_acr = json.load(acr)
     cybersec_mul = json.load(mul)
@@ -117,12 +120,13 @@ def file():
     f.close(); acr.close(); mul.close(); uni.close(); wei.close()
     al.close(); q.close(); d.close(); r.close(); dw.close()
 
+
 def load_cert_files():
-    bc = open("json/blockchain_cert.json", "r")
-    ds = open("json/ds_cert.json", "r")
-    ml = open("json/ml_cert.json", "r")
-    se = open("json/se_cert.json", "r")
-    cybersec = open("json/cybersec_cert.json", "r")
+    bc =      open(os.path.join(BASE_DIR, "json/blockchain_cert.json"), "r")
+    ds =      open(os.path.join(BASE_DIR, "json/ds_cert.json"), "r")
+    ml =      open(os.path.join(BASE_DIR, "json/ml_cert.json"), "r")
+    se =      open(os.path.join(BASE_DIR, "json/se_cert.json"), "r")
+    cybersec= open(os.path.join(BASE_DIR, "json/cybersec_cert.json"), "r")
     cert_dbs = {
         "Blockchain": json.load(bc),
         "Data Science": json.load(ds),
@@ -132,6 +136,7 @@ def load_cert_files():
     }
     bc.close(); ds.close(); ml.close(); se.close(); cybersec.close()
     return cert_dbs
+
 
 def time_score(win,raw,allu):
     x = 0
@@ -449,7 +454,7 @@ def project_ext(x):
 
 file()
 _cert_dbs = load_cert_files()
-_model    = joblib.load("model.pkl")
+_model = joblib.load(os.path.join(BASE_DIR, "model.pkl"))
 
 _sa = {
     "Cybersecurity": 5, "Software Engineering": 4,

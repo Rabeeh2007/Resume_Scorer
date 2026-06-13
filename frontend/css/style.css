@@ -64,3 +64,33 @@ button:hover:not(:disabled) { background: #4338ca; }
 button:disabled { background: #a5b4fc; cursor: not-allowed; }
 
 .error { color: #e53e3e; margin-top: 12px; font-size: 0.9rem; text-align: center; }
+
+.score-circle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    flex-direction: column;
+    margin: 16px auto 28px;
+    font-size: 2.2rem;
+    font-weight: 700;
+    border: 6px solid #e2e8f0;
+}
+
+.score-circle.high { border-color: #38a169; color: #38a169; }
+.score-circle.mid  { border-color: #dd6b20; color: #dd6b20; }
+.score-circle.low  { border-color: #e53e3e; color: #e53e3e; }
+.score-circle small{font-size: 0.9rem; font-weight: 400;}
+
+
+.details { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.detail-item {
+    background: #f7f8fc;
+    border-radius: 10px;
+    padding: 14px;
+}
+
+.label { display: block; font-size: 0.78rem; color: #666; margin-bottom: 4px; }
+.value { font-size: 1rem; font-weight: 600; }
